@@ -29,5 +29,10 @@ git checkout -b feature/child
 git checkout main
 git pull
 git checkout feature/child
-git rebase --onto main feature/parent
+git rebase feature/parent --onto main
 ```
+
+Resources: 
+
+- [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
+- [How to git rebase a branch with the onto command?](https://stackoverflow.com/questions/29914052/how-to-git-rebase-a-branch-with-the-onto-command)
