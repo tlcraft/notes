@@ -4,6 +4,7 @@
 
 - [Change Branches](#change-branches)
 - [Rebase Onto](#rebase-onto)
+- [Soft Undo Commits](#soft-undo-commits)
 
 ### Change Branches
 
@@ -36,3 +37,7 @@ Resources:
 
 - [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
 - [How to git rebase a branch with the onto command?](https://stackoverflow.com/questions/29914052/how-to-git-rebase-a-branch-with-the-onto-command)
+
+### Soft Undo Commits
+
+When you have accidentally committed changes to a branch you can undo them and restage the changes using `git reset HEAD^ --soft`. You can run this multiple times to continue undoing changes as needed.
