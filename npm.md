@@ -3,6 +3,7 @@
 ## Contents
 
 - [npm link](#npm-link)
+    - [yalc](#yalc)
 - [Specify Lockfile Version](#specify-lockfile-version)
 
 ### npm link
@@ -12,6 +13,12 @@ You can link local packages together for local testing. `npm link` sets up a glo
 Resources:
 
 - [Understanding npm-link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
+
+#### yalc
+
+This is an alternative to using `link`. This package helps manage some of the [problems](https://github.com/yarnpkg/yarn/issues/1761#issuecomment-259706202) that can arise from `npm | yarn link`. 
+
+- [yalc](https://github.com/wclr/yalc)
 
 ### Specify Lockfile Version
 
