@@ -5,12 +5,25 @@ Notes on various CLI commands.
 ## Contents
 
 - [Changing Directories](#changing-directories)
+- [cat](#cat)
 - [dig](#dig)
 - [sed](#sed)
 
 ### Changing Directories
 
 `cd` lets us change between directories. You can use a dash to jump back to your last directoy, like `cd -`.
+
+### cat
+
+The `cat` command can print the contents of a file to standard output. It can do other things like concatenating file contents together as well.
+
+This example will print the contents of `filename` to the terminal.
+
+```bash
+cat filename
+```
+
+- [cat (Unix)](https://en.wikipedia.org/wiki/Cat_(Unix))
 
 ### dig
 
@@ -32,7 +45,6 @@ From the documentation below, here's an example which replaces instances of `hel
 
 ```shell
 sed 's/hello/world/' input.txt > output.txt
-
 ```
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
