@@ -7,6 +7,7 @@ Notes on various CLI commands.
 - [Changing Directories](#changing-directories)
 - [cat](#cat)
 - [dig](#dig)
+- [grep](#grep)
 - [sed](#sed)
 
 ### Changing Directories
@@ -36,6 +37,13 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 - [dig command](https://www.ibm.com/docs/en/aix/7.3?topic=d-dig-command)
 - [Linux and Unix dig Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
 - [dig Command in Linux with Examples](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
+
+### grep
+
+`grep` can be used to find instances of a given pattern within a file. It will print each line that includes a match. Note from the documentation, "since newline is also a separator for the list of patterns, there is no way to match newline characters in a text."
+
+- [grep](https://www.gnu.org/software/grep/manual/grep.html)
+- [Finding text strings within files (grep command)](https://www.ibm.com/docs/en/aix/7.3?topic=files-finding-text-strings-within-grep-command)
 
 ### sed
 
