@@ -9,6 +9,7 @@ Notes on various CLI commands.
 - [dig](#dig)
 - [grep](#grep)
 - [sed](#sed)
+- [tree](#tree)
 
 ### cd
 
@@ -56,3 +57,9 @@ sed 's/hello/world/' input.txt > output.txt
 ```
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
+
+### tree
+
+The `tree` command prints the directory structure from the folder where you run the command.
+
+- [tree (command)](https://en.wikipedia.org/wiki/Tree_(command))
