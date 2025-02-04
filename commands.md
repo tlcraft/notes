@@ -8,6 +8,8 @@ Notes on various CLI commands.
 - [cat](#cat)
 - [dig](#dig)
 - [grep](#grep)
+- [ipconfig](#ipconfig)
+- [ping](#ping)
 - [sed](#sed)
 - [tree](#tree)
 
@@ -45,6 +47,18 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 
 - [grep](https://www.gnu.org/software/grep/manual/grep.html)
 - [Finding text strings within files (grep command)](https://www.ibm.com/docs/en/aix/7.3?topic=files-finding-text-strings-within-grep-command)
+
+### ipconfig
+
+From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, `ipconfig` displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters."
+
+- [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
+
+### ping
+
+The `ping` command tests if a device on a network is reachable.
+
+- [Ping command basics for testing and troubleshooting](https://www.redhat.com/en/blog/ping-usage-basics)
 
 ### sed
 
