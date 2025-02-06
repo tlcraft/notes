@@ -6,6 +6,7 @@ Notes on various CLI commands.
 
 - [cd](#cd)
 - [cat](#cat)
+- [df](#df)
 - [dig](#dig)
 - [grep](#grep)
 - [ifconfig](#ifconfig)
@@ -29,6 +30,13 @@ cat filename
 ```
 
 - [cat (Unix)](https://en.wikipedia.org/wiki/Cat_(Unix))
+
+### df
+
+The `df` command displays information about the total space on a file system. The `-h` flag will print out the size of each disk in a human-readable format. `-k` will display the blocks in kilobytes.
+
+- [df Command](https://www.ibm.com/docs/en/aix/7.3?topic=d-df-command)
+- [df (Unix)](https://en.wikipedia.org/wiki/Df_(Unix))
 
 ### dig
 
