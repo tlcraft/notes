@@ -8,6 +8,7 @@ Notes on various CLI commands.
 - [cat](#cat)
 - [dig](#dig)
 - [grep](#grep)
+- [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
 - [ping](#ping)
 - [sed](#sed)
@@ -47,6 +48,12 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 
 - [grep](https://www.gnu.org/software/grep/manual/grep.html)
 - [Finding text strings within files (grep command)](https://www.ibm.com/docs/en/aix/7.3?topic=files-finding-text-strings-within-grep-command)
+
+### ifconfig
+
+`ifconfig` can be run on Unix-like systems, such as macOS, to configure or query network interface parameters.
+
+- [ifconfig](https://en.wikipedia.org/wiki/Ifconfig)
 
 ### ipconfig
 
