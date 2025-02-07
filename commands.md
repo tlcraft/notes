@@ -11,6 +11,7 @@ Notes on various CLI commands.
 - [grep](#grep)
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
+- [Multiline Commands](#multiline-commands)
 - [ping](#ping)
 - [sed](#sed)
 - [tree](#tree)
@@ -68,6 +69,17 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, `ipconfig` displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters."
 
 - [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
+
+### Multiline Commands
+
+Terminals can be configured to handle multiline commands. Typically adding a backslash at the end of a line will allow the terminal to process these. In some cases you may need to use a caret, backtick or pipe.
+
+Simple `echo` example:
+```shell
+echo "This spans \
+multiple lines \
+testing, 123"
+```
 
 ### ping
 
