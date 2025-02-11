@@ -16,6 +16,13 @@ Here are notes on the configuration types from above:
 - Interactive – scripts that include some input and/or output
 - Non-interactive – init or startup files (no human interaction)
 
-The rc file gets run when a terminal starts up and makes available any commands that are defined. This can be useful for setting environment variables or common functions.
+The rc file gets run when a terminal starts up and makes available any commands that are defined (technically it's called by other files that run automatically). This can be useful for setting environment variables or common functions.
 
 Aliases are typically for commands which don't have arguments, but they don't have to be. Consider adding aliases for common tasks to simplify them. The spacing in files is syntactically important so keep that in mind.
+
+Resources
+
+ - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+ - [RC Config files](https://medium.com/@aadishazzam/rc-files-403a2b7c80a9)
+ - [What is .bashrc file in Linux?](https://www.digitalocean.com/community/tutorials/bashrc-file-in-linux)
+ - [Bashrc: How To Use It To Improve Your Linux Experience](https://www.namehero.com/blog/bashrc-how-to-use-it-to-improve-your-linux-experience/)
