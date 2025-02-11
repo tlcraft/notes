@@ -15,3 +15,7 @@ Here are notes on the configuration types from above:
 - Non-login – shells invoked without logging into anything
 - Interactive – scripts that include some input and/or output
 - Non-interactive – init or startup files (no human interaction)
+
+The rc file gets run when a terminal starts up and makes available any commands that are defined. This can be useful for setting environment variables or common functions.
+
+Aliases are typically for commands which don't have arguments, but they don't have to be. Consider adding aliases for common tasks to simplify them. The spacing in files is syntactically important so keep that in mind.
