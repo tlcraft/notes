@@ -18,7 +18,7 @@ Here are notes on the configuration types from above:
 
 The rc file gets run when a terminal starts up and makes available any commands that are defined (technically it's called by other files that run automatically). This can be useful for setting environment variables or common functions.
 
-Aliases are typically for commands which don't have arguments, but they don't have to be. Consider adding aliases for common tasks to simplify them. The spacing in files is syntactically important so keep that in mind.
+Aliases are typically for commands which don't have arguments, but they don't have to be. Consider adding aliases for common tasks to simplify them. The spacing in files is syntactically important so keep that in mind. Commands can include operators like `-z` which checks if the length of a string is zero and `-gt` which is the greater than comparison operator.
 
 Resources
 
