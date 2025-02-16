@@ -2,7 +2,14 @@
 
 ## Contents
 
+- [AWS CLI Reference](#aws-cli-reference)
 - [Cold Start Lambda](#cold-start-lambda)
+
+### AWS CLI Reference
+
+The AWS CLI is a powerful tool for interacting with AWS resources straight from your terminal. The official reference guide highlights all the use cases with examples to build from.
+
+- [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)
 
 ### Cold Start Lambda
 
