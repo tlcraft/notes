@@ -6,3 +6,4 @@ This repo contains a number of notes covering different topics in software devel
 - [Commands](commands.md)
 - [Git](git.md)
 - [npm](npm.md)
+- [Shell](shell.md)
