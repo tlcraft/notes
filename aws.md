@@ -4,6 +4,8 @@
 
 - [AWS CLI Reference](#aws-cli-reference)
 - [Cold Start Lambda](#cold-start-lambda)
+- [DynamoDB read and write operations](#dynamodb-read-and-write-operations)
+- [Stress Tool](#stress-tool)
 
 ### AWS CLI Reference
 
@@ -21,3 +23,10 @@ DynamoDB is a NoSQL database with various read and write methods. DynamoDB uses 
 
 - [Read capacity units and write capacity units](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/provisioned-capacity-mode.html#read-write-capacity-units)
 - [DynamoDB read and write operations](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/read-write-operations.html)
+
+### Stress Tool
+
+AWS has a tool which can stress Linux EC2 instances if needed. Log in, install and run the `stress` command. The Fault Injection Service can also be used to stress CPUs.
+
+- [How to quickly stress test CPU on Amazon Linux](https://gregsnotes.medium.com/how-to-quickly-stress-test-cpu-on-amazon-linux-7fc49c473334)
+- [Tutorial: Run CPU stress on an instance using AWS FIS](https://docs.aws.amazon.com/fis/latest/userguide/fis-tutorial-run-cpu-stress.html)
