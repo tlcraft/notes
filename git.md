@@ -3,6 +3,7 @@
 ## Contents
 
 - [Change Branches](#change-branches)
+- [Empty Commits](#empty-commits)
 - [Get Remote URL](#get-remote-url)
 - [Rebase Onto](#rebase-onto)
 - [Soft Undo Commits](#soft-undo-commits)
@@ -16,6 +17,18 @@ git checkout branch-name
 git checkout main
 git checkout -
 ```
+
+### Empty Commits
+
+You can make commits with no changes or message if needed.
+
+```shell
+git commit --allow-empty -m "Empty commit"
+git commit --allow-empty --allow-empty-message # will be asked to enter a message
+git commit --allow-empty --allow-empty-message -m ""
+```
+
+- [How to commit no change and new message?](https://stackoverflow.com/questions/12470029/how-to-commit-no-change-and-new-message)
 
 ### Get Remote URL
 
