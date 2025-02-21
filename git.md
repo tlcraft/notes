@@ -3,6 +3,7 @@
 ## Contents
 
 - [Change Branches](#change-branches)
+- [Get Remote URL](#get-remote-url)
 - [Rebase Onto](#rebase-onto)
 - [Soft Undo Commits](#soft-undo-commits)
 
@@ -14,6 +15,14 @@ You can swap back to the last branch you were on by using a dash with `checkout`
 git checkout branch-name
 git checkout main
 git checkout -
+```
+
+### Get Remote URL
+
+The following command will list your repo's remote origin URL.
+
+```shell
+git config --get remote.origin.url
 ```
 
 ### Rebase Onto
