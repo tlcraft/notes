@@ -5,6 +5,7 @@
 - [Change Branches](#change-branches)
 - [Empty Commits](#empty-commits)
 - [Get Remote URL](#get-remote-url)
+- [Precommit Hooks](#precommit-hooks)
 - [Rebase Onto](#rebase-onto)
 - [Soft Undo Commits](#soft-undo-commits)
 
@@ -38,6 +39,12 @@ The following command will list your repo's remote origin URL.
 git config --get remote.origin.url
 ```
 
+### Precommit Hooks
+
+Precommit hooks are useful to ensure standard checks are performed before allowing a commit to be made. For example, you may want to run a linter and unit tests, or perform formatting, or even require a commit message in a specific format. There are a number of tools, like `husky` and `lefthook` that can help. It can also be good to prevent commits to the `main` branch.
+
+- [Prevent commits in master branch](https://stackoverflow.com/questions/40462111/prevent-commits-in-master-branch)
+
 ### Rebase Onto
 
 Rebasing a branch with your `main` branch will preserve a linear history of commits. In some cases we branch from a branch while we're in the middle of changes. If the parent branch is merged back to `main` while we are still working on the child branch we can `rebase --onto` to essentially update the child's parent branch to `main`.
@@ -63,3 +70,6 @@ Resources:
 ### Soft Undo Commits
 
 When you have accidentally committed changes to a branch you can undo them and restage the changes using `git reset HEAD^ --soft`. You can run this multiple times to continue undoing changes as needed. `git reset HEAD~` will also work.
+
+
+rebase commits to new branch
