@@ -46,6 +46,8 @@ Precommit hooks are useful to ensure standard checks are performed before allowi
 - [Prevent commits in master branch](https://stackoverflow.com/questions/40462111/prevent-commits-in-master-branch)
 - [lefthook](https://github.com/evilmartians/lefthook)
 - [husky](https://typicode.github.io/husky/get-started.html)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+- [pre-commit](https://pre-commit.com/)
 
 ### Rebase Onto
 
