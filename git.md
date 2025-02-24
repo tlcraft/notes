@@ -41,9 +41,11 @@ git config --get remote.origin.url
 
 ### Precommit Hooks
 
-Precommit hooks are useful to ensure standard checks are performed before allowing a commit to be made. For example, you may want to run a linter and unit tests, or perform formatting, or even require a commit message in a specific format. There are a number of tools, like `husky` and `lefthook` that can help. It can also be good to prevent commits to the `main` branch.
+Precommit hooks are useful to ensure standard checks are performed before allowing a commit to be made. For example, you may want to run a linter and unit tests, or perform formatting, or even require a commit message in a specific format. There are a number of tools, like `husky` and `lefthook`, that can help. It can also be good to prevent commits to the `main` branch.
 
 - [Prevent commits in master branch](https://stackoverflow.com/questions/40462111/prevent-commits-in-master-branch)
+- [lefthook](https://github.com/evilmartians/lefthook)
+- [husky](https://typicode.github.io/husky/get-started.html)
 
 ### Rebase Onto
 
