@@ -3,6 +3,7 @@
 ## Contents
 
 - [AWS CLI Reference](#aws-cli-reference)
+- [DynamoDB CLI](#dynamodb-cli)
 - [Cold Start Lambda](#cold-start-lambda)
 - [DynamoDB read and write operations](#dynamodb-read-and-write-operations)
 - [Stress Tool](#stress-tool)
@@ -12,6 +13,14 @@
 The AWS CLI is a powerful tool for interacting with AWS resources straight from your terminal. The official reference guide highlights all the use cases with examples to build from.
 
 - [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)
+
+### DynamoDB CLI
+
+The AWS CLI can be used to interact with DynamoDB. You can use separate files to help compose your queries and reference those in the commands. Responses can be saved to files as well.
+
+- [AWS CLI DynamoDB Query Example](https://medium.com/@corymaklin/tutorial-aws-part-5-the-basics-of-dynamo-db-amazons-non-relational-database-9be0cf500e6e)
+- [query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/query.html)
+- [Export a DynamoDB table as CSV through AWS CLI](https://stackoverflow.com/questions/33357821/export-a-dynamodb-table-as-csv-through-aws-cli-without-using-pipeline)
 
 ### Cold Start Lambda
 
