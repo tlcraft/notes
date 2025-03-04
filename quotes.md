@@ -11,3 +11,5 @@ Quotes from various sources on software development or related points.
 "You can't think of everything." - [Stephen Hawking, commenting on why Isaac Newton didn't figure out how to stabilize the solar system, in response to a question from Neil Degrasse Tyson (from A Conversation with Astrophysicist J. Richard Gott III at 26:36)](https://www.youtube.com/watch?v=VFmHSnnI0OA&t=1596s)
 
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
+
+"Program to an interface, not an implementation." - [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns#Introduction)
