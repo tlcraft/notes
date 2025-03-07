@@ -18,6 +18,48 @@ The AWS CLI is a powerful tool for interacting with AWS resources straight from 
 
 The AWS CLI can be used to interact with DynamoDB. You can use separate files to help compose your queries and reference those in the commands. Responses can be saved to files as well.
 
+From [AWS documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli_dynamodb_code_examples.html), here's an example:
+
+```bash
+aws dynamodb query \
+    --table-name MusicCollection \
+    --projection-expression "SongTitle" \
+    --key-condition-expression "Artist = :v1" \
+    --expression-attribute-values file://expression-attributes.json \
+    --return-consumed-capacity TOTAL
+```
+
+expression-attributes.json:
+
+```json
+{
+    ":v1": {"S": "No One You Know"}
+}
+```
+
+Output:
+
+```json
+{
+    "Items": [
+        {
+            "SongTitle": {
+                "S": "Call Me Today"
+            },
+            "SongTitle": {
+                "S": "Scared of My Shadow"
+            }
+        }
+    ],
+    "Count": 2,
+    "ScannedCount": 2,
+    "ConsumedCapacity": {
+        "TableName": "MusicCollection",
+        "CapacityUnits": 0.5
+    }
+}
+```
+
 - [AWS CLI DynamoDB Query Example](https://medium.com/@corymaklin/tutorial-aws-part-5-the-basics-of-dynamo-db-amazons-non-relational-database-9be0cf500e6e)
 - [query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/query.html)
 - [Export a DynamoDB table as CSV through AWS CLI](https://stackoverflow.com/questions/33357821/export-a-dynamodb-table-as-csv-through-aws-cli-without-using-pipeline)
