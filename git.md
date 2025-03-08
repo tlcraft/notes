@@ -3,6 +3,7 @@
 ## Contents
 
 - [Change Branches](#change-branches)
+- [Checkout a Tag](#checkout-a-tag)
 - [Empty Commits](#empty-commits)
 - [Get Remote URL](#get-remote-url)
 - [Precommit Hooks](#precommit-hooks)
@@ -17,6 +18,17 @@ You can swap back to the last branch you were on by using a dash with `checkout`
 git checkout branch-name
 git checkout main
 git checkout -
+```
+
+### Checkout a Tag
+
+You can checkout git tags if you need a specific version of your code (if you're tagging commits).
+
+For example, you can follow this pattern to fetch the tags and checkout a new branch.
+
+```bash
+git fetch --all --tags --prune
+git checkout -b branch/name tags/<tag_name>
 ```
 
 ### Empty Commits
