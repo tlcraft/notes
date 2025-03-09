@@ -13,3 +13,5 @@ This page lists quotes from various sources on software development or related t
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
 
 "Program to an interface, not an implementation." - [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns#Introduction)
+
+"Don't break the chain." - [Productivity tip, attributed to comedian Jerry Seinfeld](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
