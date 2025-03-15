@@ -20,3 +20,4 @@ This sections contains notes on API security and other helpful information.
 10. Unsafe Consumption of APIs
 
 - [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
+- [OWASP API Security Top 10 Vulnerabilities: 2023](https://apisecurity.io/owasp-api-security-top-10/)
