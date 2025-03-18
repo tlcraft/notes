@@ -34,7 +34,7 @@ Many things could occur to disrupt normal operation of your software. It could r
 
 ## Chaos Engineering
 
-In order to test your disaster recovery prepardness teams can run "game days" to see how softare and teams respond to outages. Netflix is known for developing a "choas engineering" culture to ensure systems run smoothly in the face of adversity. Below are links covering this topic.
+In order to test your disaster recovery preparedness teams can run "game days" to see how software and teams respond to outages. Netflix is known for developing a "chaos engineering" culture to ensure systems run smoothly in the face of adversity. Below are links covering this topic.
 
 - [AWS Well-Architected: Game day](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.gameday.en.html)
 - [Break Your Software, or, How to Run a Gameday](https://medium.com/@rebeccaholzschuh/break-your-software-or-how-to-run-a-gameday-b68150188bb8)
