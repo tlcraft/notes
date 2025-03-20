@@ -9,17 +9,18 @@ This sections contains notes on API security and other helpful information.
 ## OWASP Top 10 API Security Risks
 
 1. Broken Object Level Authorization
-2. Broken Authentication
-3. Broken Object Property Level Authorization
-4. Unrestricted Resource Consumption
-5. Broken Function Level Authorization
-6. Unrestricted Access to Sensitive Business Flows
-7. Server Side Request Forgery
-8. Security Misconfiguration
-9. Improper Inventory Management
-10. Unsafe Consumption of APIs
+1. Broken Authentication
+1. Broken Object Property Level Authorization
+1. Unrestricted Resource Consumption
+1. Broken Function Level Authorization
+1. Unrestricted Access to Sensitive Business Flows
+1. Server Side Request Forgery
+1. Security Misconfiguration
+1. Improper Inventory Management
+1. Unsafe Consumption of APIs
 
 - [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
+- [2023 OWASP API Top Ten](https://www.apisec.ai/blog/2023-owasp-api-top-ten)
 - [OWASP API Security Top 10 Vulnerabilities: 2023](https://apisecurity.io/owasp-api-security-top-10/)
 
 ## Disaster Recovery Plans
