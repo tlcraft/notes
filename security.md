@@ -43,3 +43,13 @@ In order to test your disaster recovery preparedness teams can run "game days" t
 - [Introduction to GameDays](https://www.gremlin.com/community/tutorials/introduction-to-gamedays)
 - [Netflix Blog: Chaos Engineering Articles](https://netflixtechblog.com/tagged/chaos-engineering)
 - [Chaos Monkey](https://netflix.github.io/chaosmonkey/)
+
+## Common Vulnerabilities
+
+There are a lot of common things we need to keep in mind when building software. In terms of security, sanitizing user input is one that comes to mind. Below is a link to OWASP cheat sheets for many different aspects of software development as well as a few highlights:
+
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+- [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
+- [OAuth 2.0 Protocol Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
+- [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
