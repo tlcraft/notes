@@ -6,6 +6,13 @@ This sections contains notes on API security and other helpful information.
 - [APIsec](https://www.apisec.ai/)
 - [TryHackMe](https://tryhackme.com/)
 
+## Contents
+
+- [OWASP Top 10 API Security Risks](#owasp-top-10-api-security-risks)
+- [Disaster Recovery Plans](#disaster-recovery-plans)
+- [Chaos Engineering](#chaos-engineering)
+- [Common Vulnerabilities](#common-vulnerabilities)
+
 ## OWASP Top 10 API Security Risks
 
 1. Broken Object Level Authorization
