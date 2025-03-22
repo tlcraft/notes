@@ -60,3 +60,11 @@ There are a lot of common things we need to keep in mind when building software.
 - [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
 - [OAuth 2.0 Protocol Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
 - [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+
+## Add Salt to Passwords
+
+To help increase security around passwords it can be good to add what is known as "salt" before hashing them. To do this extra characters are appended to the passwords. Doing so can make it harder for people to crack and analyze.
+
+- [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [Password Storage Cheat Sheet - Salting](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#salting)
+- [Salt (cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
