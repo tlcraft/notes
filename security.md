@@ -12,6 +12,7 @@ This sections contains notes on API security and other helpful information.
 - [Disaster Recovery Plans](#disaster-recovery-plans)
 - [Chaos Engineering](#chaos-engineering)
 - [Common Vulnerabilities](#common-vulnerabilities)
+- [Add Salt to Passwords](#add-salt-to-passwords)
 
 ## OWASP Top 10 API Security Risks
 
