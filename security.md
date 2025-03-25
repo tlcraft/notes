@@ -61,6 +61,7 @@ There are a lot of common things we need to keep in mind when building software.
 - [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
 - [OAuth 2.0 Protocol Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
 - [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- [How to Use Input Sanitization to Prevent Web Attacks](https://www.esecurityplanet.com/endpoint/prevent-web-attacks-using-input-sanitization/)
 
 ## Add Salt to Passwords
 
