@@ -70,3 +70,10 @@ To help increase security around passwords it can be good to add what is known a
 - [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [Password Storage Cheat Sheet - Salting](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#salting)
 - [Salt (cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
+
+## Automated Package Scanning
+
+There are tools to automatically scan and detect vulnerabilities in software. These can be plugged into our code repositories and even automatically create PRs to update package versions. 
+
+- [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
+- [Snyk](https://snyk.io/)
