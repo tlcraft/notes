@@ -13,6 +13,7 @@ This sections contains notes on API security and other helpful information.
 - [Chaos Engineering](#chaos-engineering)
 - [Common Vulnerabilities](#common-vulnerabilities)
 - [Add Salt to Passwords](#add-salt-to-passwords)
+- [Automated Package Scanning](#automated-package-scanning)
 
 ## OWASP Top 10 API Security Risks
 
