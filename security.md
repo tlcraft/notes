@@ -78,3 +78,9 @@ There are tools to automatically scan and detect vulnerabilities in software. Th
 
 - [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
 - [Snyk](https://snyk.io/)
+
+## Package Vulnerabilities
+
+You can review security vulnerabilities found in online packages using services like Snyk. They provide an online search tool to review issues across the major package managers.
+
+- [Snky Advisor](https://snyk.io/advisor/)
