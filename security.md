@@ -14,6 +14,7 @@ This sections contains notes on API security and other helpful information.
 - [Common Vulnerabilities](#common-vulnerabilities)
 - [Add Salt to Passwords](#add-salt-to-passwords)
 - [Automated Package Scanning](#automated-package-scanning)
+- [Package Vulnerabilities](#package-vulnerabilities)
 
 ## OWASP Top 10 API Security Risks
 
