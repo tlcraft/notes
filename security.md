@@ -63,7 +63,6 @@ There are a lot of common things we need to keep in mind when building software.
 - [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
 - [OAuth 2.0 Protocol Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
 - [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
-- [How to Use Input Sanitization to Prevent Web Attacks](https://www.esecurityplanet.com/endpoint/prevent-web-attacks-using-input-sanitization/)
 
 ## Add Salt to Passwords
 
@@ -85,3 +84,11 @@ There are tools to automatically scan and detect vulnerabilities in software. Th
 You can review security vulnerabilities found in online packages using services like Snyk. They provide an online search tool to review issues across the major package managers.
 
 - [Snky Advisor](https://snyk.io/advisor/)
+
+## Character Encoding
+
+URL encoding is a core part of web development. This can help prevent common attacks like XSS and SQL injection.
+
+- [Secure Coding Practices: Mastering URL Encoding for Enhanced Web Security](https://www.pullrequest.com/blog/secure-coding-practices-mastering-url-encoding-for-enhanced-web-security/)
+- [How to Use Input Sanitization to Prevent Web Attacks](https://www.esecurityplanet.com/endpoint/prevent-web-attacks-using-input-sanitization/)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
