@@ -1,6 +1,6 @@
 # Security
 
-This sections contains notes on API security and other helpful information.
+This sections contains notes on API security and other helpful information. Below are some links to helpful resources. For example, OWASP is the Open Worldwide Application Security Project which produces a lot of articles on best practices that are freely available.
 
 - [OWASP](https://owasp.org/)
 - [APIsec](https://www.apisec.ai/)
