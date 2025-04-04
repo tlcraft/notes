@@ -7,4 +7,5 @@ This repo contains a number of notes covering different topics in software devel
 - [Git](git.md)
 - [npm](npm.md)
 - [Quotes](quotes.md)
+- [Security](security.md)
 - [Shell](shell.md)
