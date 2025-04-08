@@ -13,6 +13,10 @@ To help ensure a high level of quality, testing needs to be done at all levels t
     - Tests should include positive, negative, and boundary test cases (but is not limited to only these types)
     - Pull requests and code reviews will also help reduce issues
 - Peer Review
+    - Once a ticket is completed, or as subtasks are completed and are ready for review, another member of the develoment team should be testing the changes
+    - This may sometimes include testing feature branches locally or in a specific environment
+    - This also includes testing the final product in the development environment
+    - Consider multiple peer reviews, for instance, an internal one with the developers who worked on a larger feature together, and a following review with anyone interested from the larger team
 - Demo
 - Dev Env Regression Testing
 - Test Env Regression Testing
