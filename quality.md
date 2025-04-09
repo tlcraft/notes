@@ -18,6 +18,13 @@ To help ensure a high level of quality, testing needs to be done at all levels t
     - This also includes testing the final product in the development environment
     - Consider multiple peer reviews, for instance, an internal one with the developers who worked on a larger feature together, and a following review with anyone interested from the larger team
 - Demo
+    - The original developer should now demo their work in the development environment to product owners 
+    - This should be done with relevant product owners, business analysts and stake holders when possible
+    - This would ideally be a relatively quick meeting to review the original ticket and demo the workflow
+    - If there are issues or required updates the developer will make changes and repeat the above steps
+    - Another demo will be needed once the changes are in place
+    - Once accepted the developer can promote their code to the next stages of the release process
+    - The developer, release team, and product owner should work to add (or update) test steps to a regression checklist as needed
 - Dev Env Regression Testing
 - Test Env Regression Testing
 - UAT
