@@ -30,5 +30,9 @@ To help ensure a high level of quality, testing needs to be done at all levels t
     - This should include a review of the latest features so a regression checklist can be updated
     - Any issues can be triaged and fixed depending on severity
 - Test Env Regression Testing
+    - Once the changes look good in development we can release to Test
+    - We will ask developers to confirm that their features are aviable in Test
+    - A full round of regression testing will be completed by the release team
+    - If there are issues developers will be notified and changes will be made
 - UAT
 - Deploy to Production
