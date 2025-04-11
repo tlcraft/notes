@@ -26,6 +26,9 @@ To help ensure a high level of quality, testing needs to be done at all levels t
     - Once accepted the developer can promote their code to the next stages of the release process
     - The developer, release team, and product owner should work to add (or update) test steps to a regression checklist as needed
 - Dev Env Regression Testing
+    - Before deploying to Test a release team can complete a thorough round of regression testing in the development environment
+    - This should include a review of the latest features so a regression checklist can be updated
+    - Any issues can be triaged and fixed depending on severity
 - Test Env Regression Testing
 - UAT
 - Deploy to Production
