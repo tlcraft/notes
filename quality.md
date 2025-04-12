@@ -35,4 +35,12 @@ To help ensure a high level of quality, testing needs to be done at all levels t
     - A full round of regression testing will be completed by the release team
     - If there are issues developers will be notified and changes will be made
 - UAT
+    - Once regression testing is completed we can alert the product owners that user acceptance testing can begin (or be scheduled)
+    - If there are issues developers will be notified and changes will be made
+    - The release team will run through regression testing again
+    - UAT consists of:
+        - Full review of the developed features and changes
+        - General regression and edge case testing
+        - Changing various values/settings and trying things multiple times in different ways
+        - Final sign off for a production deployment comes from the release team and leadership
 - Deploy to Production
