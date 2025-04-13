@@ -44,3 +44,6 @@ To help ensure a high level of quality, testing needs to be done at all levels t
         - Changing various values/settings and trying things multiple times in different ways
         - Final sign off for a production deployment comes from the release team and leadership
 - Deploy to Production
+    - Once UAT has completed and is signed off we can move forward to production
+    - A smoke test will be performed by the release team to ensure the production deploy succeeded and to check a few features at a high-level (this process should not modify data in any way)
+    - Communications can be sent out letting the team know we’ve completed the deployment to production
