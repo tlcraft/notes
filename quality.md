@@ -6,6 +6,11 @@ Here are notes on building quality into software. From processes to bug ticket c
 
 To help ensure a high level of quality, testing needs to be done at all phases throughout development and the release process. Below is an overview of the areas where testing should occur. This is just one possible release process and can be adapted to unique situations. Different teams employ different strategies depending on their team makeup and structure.
 
+- Important Points
+    - Communication is key! Keeping teams in sync on our progress is important. Use team channels to communicate how things are going.
+    - Regression testing in Dev and Test prior to UAT is very important! We can catch any bugs before UAT and it helps build trust with everyone around the organization. We want to deliver a high quality product!
+    - Releasing working software is probably the most important thing that we do together. It involves everyone, from the initial developers implementing a solution, to QA completing regression testing, to stakeholders reviewing our features in UAT. We’re all working together on this!
+
 - Dev Testing
     - The first set of testing is with the original feature developer as they work on a ticket
     - This should include writing automated unit tests within the code itself
