@@ -4,7 +4,7 @@ Here are notes on building quality into software. From processes to bug ticket c
 
 ## Software Development Life Cycle
 
-To help ensure a high level of quality, testing needs to be done at all levels throughout development and the release process. Here’s an overview of the areas where testing should occur.
+To help ensure a high level of quality, testing needs to be done at all phases throughout development and the release process. Below is an overview of the areas where testing should occur. This is just one possible release process and can be adapted to unique situations. Different teams employ different strategies depending on their team makeup and structure.
 
 - Dev Testing
     - The first set of testing is with the original feature developer as they work on a ticket
