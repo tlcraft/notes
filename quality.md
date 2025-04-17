@@ -2,7 +2,7 @@
 
 Here are notes on building quality into software. From processes to bug ticket creation.
 
-## Software Development Life Cycle
+## Testing and Release Life Cycle
 
 To help ensure a high level of quality, testing needs to be done at all phases throughout development and the release process. Below is an overview of the areas where testing should occur. This is just one possible release process and can be adapted to unique situations. Different teams employ different strategies depending on their team makeup and structure.
 
@@ -12,7 +12,7 @@ To help ensure a high level of quality, testing needs to be done at all phases t
     - Releasing working software is probably the most important thing that we do together. It involves everyone, from the initial developers implementing a solution, to QA completing regression testing, to stakeholders reviewing our features in UAT. We’re all working together on this!
 
 - Dev Testing
-    - The first set of testing is with the original feature developer as they work on a ticket
+    - The first round of testing is done by the original developer as they work on the feature
     - This should include writing automated unit tests within the code itself
     - The developer should also be running their code locally to test the workflows manually
     - Tests should include positive, negative, and boundary test cases (but is not limited to only these types)
@@ -20,8 +20,8 @@ To help ensure a high level of quality, testing needs to be done at all phases t
 - Peer Review
     - Once a ticket is completed, or as subtasks are completed and are ready for review, another member of the develoment team should be testing the changes
     - This may sometimes include testing feature branches locally or in a specific environment
-    - This also includes testing the final product in the development environment
-    - Consider multiple peer reviews, for instance, an internal one with the developers who worked on a larger feature together, and a following review with anyone interested from the larger team
+    - This also includes testing the final product in the development environment before other QAs
+    - Consider multiple peer reviews. For instance, an internal one with the developers who worked on a larger feature together, and a following review with anyone interested from the larger team
 - Demo
     - The original developer should now demo their work in the development environment to product owners 
     - This should be done with relevant product owners, business analysts and stake holders when possible
@@ -35,8 +35,8 @@ To help ensure a high level of quality, testing needs to be done at all phases t
     - This should include a review of the latest features so a regression checklist can be updated
     - Any issues can be triaged and fixed depending on severity
 - Test Env Regression Testing
-    - Once the changes look good in development we can release to Test
-    - We will ask developers to confirm that their features are aviable in Test
+    - Once the changes look good in the development environment we can release to Test
+    - We will ask developers to confirm that their features are aviable in Test after the deploy
     - A full round of regression testing will be completed by the release team
     - If there are issues developers will be notified and changes will be made
 - UAT
