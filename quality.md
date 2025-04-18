@@ -24,6 +24,7 @@ To help ensure a high level of quality, testing needs to be done at all phases t
     - Consider multiple peer reviews. For instance, an internal one with the developers who worked on a larger feature together, and a following review with anyone interested from the larger team
 - Demo
     - The original developer should now demo their work in the development environment to product owners 
+    - This ensures we are delivering what is expected
     - This should be done with relevant product owners, business analysts and stake holders when possible
     - This would ideally be a relatively quick meeting to review the original ticket and demo the workflow
     - If there are issues or required updates the developer will make changes and repeat the above steps
