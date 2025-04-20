@@ -2,6 +2,11 @@
 
 Here are notes on building quality into software. From processes to bug ticket creation.
 
+Contents
+
+- [Testing and Release Life Cycle](#testing-and-release-life-cycle)
+- [Creating Bug Tickets](#creating-bug-tickets)
+
 ## Testing and Release Life Cycle
 
 To help ensure a high level of quality, testing needs to be done at all phases throughout development and the release process. Below is an overview of the areas where testing should occur. This is just one possible release process and can be adapted to unique situations. Different teams employ different strategies depending on their team makeup and structure. Building a suite of automated end-to-end tests will help reduce manual testing time as well.
