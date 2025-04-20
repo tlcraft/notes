@@ -53,3 +53,7 @@ To help ensure a high level of quality, testing needs to be done at all phases t
     - Once UAT has completed and is signed off we can move forward to production
     - A smoke test will be performed by the release team to ensure the production deploy succeeded and to check a few features at a high-level (this process should not modify data in any way)
     - Communications can be sent out letting the team know we’ve completed the deployment to production
+
+## Creating Bug Tickets
+
+When creating a bug ticket be sure to give it a descriptive name and include the steps to reproduce the bug consistently. Add the expected and actual results. Considering adding details like the browser used, build versions and DevTools details (such as console log error messages and network logs). Capture screenshots and video when possible. Consider gathering logs from other systems, such as AWS CloudWatch when appropriate. If possible, link to related pull requests or work items.
