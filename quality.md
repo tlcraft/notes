@@ -65,6 +65,7 @@ When creating a bug ticket be sure to give it a descriptive name and include the
 
 ## Boundary Value Analysis and Equivalence Partitioning
 
-Boundary value analysis and equivalence partitioning are techniques for breaking down a large set of test cases into more manageable groups. When writing or performing tests we want a good range of test cases so that each edge case is reviewed. At a high level you can think of valid inputs, invalid inputs and mixtures of these to help test workflows.
+Boundary value analysis and equivalence partitioning are techniques for breaking down a large set of test cases into more manageable groups. When writing or performing tests we want a good range of test cases so that each edge case is reviewed. At a high level you can think of valid inputs, invalid inputs and mixtures of these to help test workflows. Valid and invalid inputs can also be known as positive and negative test cases.
 
 - [Boundary Value Analysis and Equivalence Partitioning](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
+- [Positive Testing and Negative Testing with Examples](https://www.guru99.com/positive-and-negative-testing.html)
