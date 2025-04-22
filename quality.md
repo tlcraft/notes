@@ -62,3 +62,9 @@ To help ensure a high level of quality, testing needs to be done at all phases t
 ## Creating Bug Tickets
 
 When creating a bug ticket be sure to give it a descriptive name and include the steps to reproduce the bug consistently. Add the expected and actual results. Considering adding details like the browser used, build versions and DevTools details (such as console log error messages and network logs). Capture screenshots and video when possible. Consider gathering logs from other systems, such as AWS CloudWatch when appropriate. If possible, link to related pull requests or work items.
+
+## Boundary Value Analysis and Equivalence Partitioning
+
+Boundary value analysis and equivalence partitioning are techniques for breaking down a large set of test cases into more manageable groups. When writing or performing tests we want a good range of test cases so that each edge case is reviewed. At a high level you can think of valid inputs, invalid inputs and mixtures of these to help test workflows.
+
+- [Boundary Value Analysis and Equivalence Partitioning](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
