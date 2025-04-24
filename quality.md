@@ -70,3 +70,7 @@ Boundary value analysis and equivalence partitioning are techniques for breaking
 
 - [Boundary Value Analysis and Equivalence Partitioning](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
 - [Positive Testing and Negative Testing with Examples](https://www.guru99.com/positive-and-negative-testing.html)
+
+## Baseline Bugs
+
+It's good to remember to baseline bugs against a higher level environment (like Stage/Impl) to see if a bug is new or not. Just compare how a feature is working across two environments. One clean environment running the last production build and an updated environment with the latest code. It will help give context and the team can better assess the impact (is this entirely new from current development or existing).
