@@ -74,3 +74,11 @@ Boundary value analysis and equivalence partitioning are techniques for breaking
 ## Baseline Bugs
 
 It's good to remember to baseline bugs against a higher level environment (like Stage/Impl) to see if a bug is new or not. Just compare how a feature is working across two environments. One clean environment running the last production build and an updated environment with the latest code. It will help give context and the team can better assess the impact (is this entirely new from current development or existing).
+
+## Testing Pyramid
+
+We can use a variety of automated tests to build confidence that our software is working as expected. Unit tests are typically done by the software developers themselves. Larger integration tests are typically done by software developers in test. They also write end to end tests that use frameworks like Selenium to interact with web browsers and perform tasks. Some amount of manual testing is always important to ensure things look good. 
+
+Unit tests are the cheapest (in terms of time) and fastest to run. As you go up the pyramid integration and end to end tests take more time to implement and maintain. They can take a long time to run. In some cases, you may want to create separate build processes for different areas of your system. These can send reports to the team for review with the test results.
+
+- [The Testing Pyramid](https://automationpanda.com/2018/08/01/the-testing-pyramid/)
