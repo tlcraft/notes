@@ -7,6 +7,7 @@ Contents
 - [Testing and Release Life Cycle](#testing-and-release-life-cycle)
 - [Creating Bug Tickets](#creating-bug-tickets)
 - [Boundary Value Analysis and Equivalence Partitioning](#boundary-value-analysis-and-equivalence-partitioning)
+- [Testing Pyramid](#testing-pyramid)
 
 ## Testing and Release Life Cycle
 
