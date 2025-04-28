@@ -84,3 +84,9 @@ We can use a variety of automated tests to build confidence that our software is
 Unit tests are the cheapest (in terms of time) and fastest to run. As you go up the pyramid integration and end to end tests take more time to implement and maintain. They can take a long time to run. In some cases, you may want to create separate build processes for different areas of your system. These can send reports to the team for review with the test results.
 
 - [The Testing Pyramid](https://automationpanda.com/2018/08/01/the-testing-pyramid/)
+
+## Project Management Triangle
+
+It's always important to keep the project management triangle in mind. Time, quality and scope are directly related to each other and we have to balance them as best we can. And when we can't we have to understand what we're sacrificing.
+
+- [Project Management Triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
