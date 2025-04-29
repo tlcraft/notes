@@ -9,6 +9,7 @@ Here are notes on building quality into software. From processes to bug ticket c
 - [Boundary Value Analysis and Equivalence Partitioning](#boundary-value-analysis-and-equivalence-partitioning)
 - [Baseline Bugs](#baseline-bugs)
 - [Testing Pyramid](#testing-pyramid)
+- [Project Management Triangle](#project-management-triangle)
 
 ## Testing and Release Life Cycle
 
