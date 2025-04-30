@@ -74,6 +74,10 @@ Boundary value analysis and equivalence partitioning are techniques for breaking
 - [Boundary Value Analysis and Equivalence Partitioning](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
 - [Positive Testing and Negative Testing with Examples](https://www.guru99.com/positive-and-negative-testing.html)
 
+## Creating Test Cases
+
+Along with concepts like boundary value analysis and equivalence partitioning consider other edge cases. For example, if you're working with a form consider resetting the form along with validation logic when canceling changes. If a form's validation is dependent on the state of the form, and it's reset to an earlier state, you'll need to ensure the validation is reset with the state change. Consider if nested objects and arrays need to be handled separately. In some cases these need special handling because of the nested data. Step back and consider the full scope of the system. Where else is something used or displayed? Do multiple views rely on similar data and need to be regression tested? Perhaps these views are driven by a user role and their permissions? Or does some data appear in a report?
+
 ## Baseline Bugs
 
 It's good to remember to baseline bugs against a higher level environment (like Stage/Impl) to see if a bug is new or not. Just compare how a feature is working across two environments. One clean environment running the last production build and an updated environment with the latest code. It will help give context and the team can better assess the impact (is this entirely new from current development or existing).
