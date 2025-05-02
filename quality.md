@@ -96,3 +96,9 @@ Unit tests are the cheapest (in terms of time) and fastest to run. As you go up 
 It's always important to keep the project management triangle in mind. Time, quality and scope are directly related to each other and we have to balance them as best we can. And when we can't we have to understand what we're sacrificing.
 
 - [Project Management Triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
+
+## Understanding Missed Bugs
+
+Building software is a complex process and involves many people. Bugs ultimately can end up getting through all the checks we've setup from time to time. It's a team sport and placing blame on specific people is typically the wrong approach. Understanding the root cause is important, and working to adjust processes can sometimes be useful. Creating a toxic culture isn't going to help things so be careful with how you and your teams discuss bugs.
+
+- [Hey QA, Why Didn’t You Find That Bug?](https://medium.com/better-programming/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0)
