@@ -11,6 +11,7 @@ Here are notes on building quality into software. From processes to bug ticket c
 - [Baseline Bugs](#baseline-bugs)
 - [Testing Pyramid](#testing-pyramid)
 - [Project Management Triangle](#project-management-triangle)
+- [Understanding Missed Bugs](#understanding-missed-bugs)
 
 ## Testing and Release Life Cycle
 
