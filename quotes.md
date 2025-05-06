@@ -17,3 +17,5 @@ This page lists quotes from various sources on software development or related t
 "Don't break the chain." - [Productivity tip, attributed to comedian Jerry Seinfeld](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
+
+"Premature optimization is the root of all evils." - Donald Knuth
