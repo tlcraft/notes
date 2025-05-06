@@ -18,4 +18,6 @@ This page lists quotes from various sources on software development or related t
 
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
 
-"Premature optimization is the root of all evils." - Donald Knuth
+"Premature optimization is the root of all evils." - [Donald Knuth](https://en.wikipedia.org/wiki/Program_optimization)
+
+"Eyes open, no fear." - Brian Holmes
