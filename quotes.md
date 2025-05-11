@@ -29,3 +29,7 @@ This page lists quotes from various sources on software development or related t
 "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
 "Don't reinvent the wheel; just realign it." - [Popularized by Anthony D'Angelo](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
+
+"Triggering a fault opens the crack. Faults become errors, and errors provoke failures. That's how the cracks propogate." - [Release it! Page 29](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+
+"We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
