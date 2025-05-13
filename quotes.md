@@ -33,3 +33,7 @@ This page lists quotes from various sources on software development or related t
 "Triggering a fault opens the crack. Faults become errors, and errors provoke failures. That's how the cracks propogate." - [Release it! Page 29](https://pragprog.com/titles/mnee2/release-it-second-edition/)
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+
+"The only thing more painful than learning from experience is not learning from experience." - [Lawrence Peter](https://quoteinvestigator.com/2017/05/19/experience/)
+
+The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
