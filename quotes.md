@@ -37,3 +37,8 @@ This page lists quotes from various sources on software development or related t
 "The only thing more painful than learning from experience is not learning from experience." - [Lawrence Peter](https://quoteinvestigator.com/2017/05/19/experience/)
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
+
+"Don't shave that yak!" - [Explained by Seth Godin](https://seths.blog/2005/03/dont_shave_that/)
+Sometimes addressing issues is important. To help fix problems or recude time for the team. It can drive ownership as well but you have to consider if fixing something is worth it or not. [https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b](https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b)
+
+"Is the juice worth the squeeze?" - [juice is worth the squeeze](https://en.wiktionary.org/wiki/juice_is_worth_the_squeeze)
