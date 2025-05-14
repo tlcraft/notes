@@ -36,6 +36,8 @@ This page lists quotes from various sources on software development or related t
 
 "The only thing more painful than learning from experience is not learning from experience." - [Lawrence Peter](https://quoteinvestigator.com/2017/05/19/experience/)
 
+"Success is the ability to go from failure to failure without losing your enthusiasm." - [Attributed to Winston Churchill](https://quoteinvestigator.com/2014/06/28/success/)
+
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 
 "Don't shave that yak!" - [Explained by Seth Godin](https://seths.blog/2005/03/dont_shave_that/)
