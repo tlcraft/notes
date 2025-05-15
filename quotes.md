@@ -38,6 +38,8 @@ This page lists quotes from various sources on software development or related t
 
 "Success is the ability to go from failure to failure without losing your enthusiasm." - [Attributed to Winston Churchill](https://quoteinvestigator.com/2014/06/28/success/)
 
+"Experience is what you get when you didn't get what you wanted" - [Randy Pasch](https://www.youtube.com/watch?v=ji5_MqicxSo)
+
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 
 "Don't shave that yak!" - [Explained by Seth Godin](https://seths.blog/2005/03/dont_shave_that/)
