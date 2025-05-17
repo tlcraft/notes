@@ -50,3 +50,5 @@ Sometimes addressing issues is important. To help fix problems or recude time fo
 "Engineer (noun). 1. A person who does precision guess-work based on unreliable data provided by those of questionable knowledge." - Anonymous
 
 "If estimation is guessing, requirements are rumors." - Dave Thomas
+
+"Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
