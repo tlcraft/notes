@@ -46,3 +46,7 @@ The Peter Principle is an observation that people in a hierarchy tend to rise to
 Sometimes addressing issues is important. To help fix problems or recude time for the team. It can drive ownership as well but you have to consider if fixing something is worth it or not. [https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b](https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b)
 
 "Is the juice worth the squeeze?" - [juice is worth the squeeze](https://en.wiktionary.org/wiki/juice_is_worth_the_squeeze)
+
+"Engineer (noun). 1. A person who does precision guess-work based on unreliable data provided by those of questionable knowledge." - Anonymous
+
+"If estimation is guessing, requirements are rumors." - Dave Thomas
