@@ -56,3 +56,5 @@ Sometimes addressing issues is important. To help fix problems or recude time fo
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
 
 "Cleverness of code is proportional to the confusion it creates." - [Venkat Subramaniam](https://x.com/venkat_s/status/1518006880844632066)
+
+"The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
