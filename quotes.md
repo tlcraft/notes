@@ -55,6 +55,8 @@ Sometimes addressing issues is important. To help fix problems or recude time fo
 
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
 
+Give some respect to past decisions and existing code. We don't know what pressures the developers and team were under at the time. Spend some time gaining context. - [Related to Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
+
 "Cleverness of code is proportional to the confusion it creates." - [Venkat Subramaniam](https://x.com/venkat_s/status/1518006880844632066)
 
 "The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
