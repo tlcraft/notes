@@ -69,4 +69,7 @@ Give some respect to past decisions and existing code. We don't know what pressu
 
 Engineering is a team sport. Inclusion makes for good teams. Good engineering practices makes for good software. Engineering practices failed to find a bug multiple times, regardless of the seniority of the human who checked that code in. Solving the larger system thinking SDLC matters more than the null pointer check. 
 
-This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI one." - [Scott Hanslman](https://www.linkedin.com/posts/shanselman_crowdstrike-activity-7220428353269350400-DyM4)
+This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI one." - [Scott Hanslman on teamwork and blame](https://www.linkedin.com/posts/shanselman_crowdstrike-activity-7220428353269350400-DyM4)
+
+"Always assume the problem is in your code and act accordingly." -
+[Jeff Atwood on ownership and responsibility](https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/)
