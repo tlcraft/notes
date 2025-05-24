@@ -64,3 +64,9 @@ Give some respect to past decisions and existing code. We don't know what pressu
 "The problem with common sense is that it's not so common" - [Misquote of Voltaire](https://www.brainyquote.com/quotes/voltaire_106180)
 
 "Perfect is the enemy of good." - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
+"Here’s the thing folks. I’ve been coding 32 years. When something like this happens it’s an organizational failure. Yes, some human wrote a bad line. Someone can “git blame” and point to a human and it’s awful. But it’s the testing, the Cl/CD, the A/B testing, the metered rollouts, an oh shit button to roll it back, the code coverage, the static analysis tools, the code reviews, the organizational health, and on and on. It’s always one line of code but it’s NEVER one person. Implying inclusion policies caused a bug is simplistic, reductive, and racist. 
+
+Engineering is a team sport. Inclusion makes for good teams. Good engineering practices makes for good software. Engineering practices failed to find a bug multiple times, regardless of the seniority of the human who checked that code in. Solving the larger system thinking SDLC matters more than the null pointer check. 
+
+This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI one." - [Scott Hanslman](https://www.linkedin.com/posts/shanselman_crowdstrike-activity-7220428353269350400-DyM4)
