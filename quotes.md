@@ -73,3 +73,5 @@ This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI o
 
 "Always assume the problem is in your code and act accordingly." -
 [Jeff Atwood on ownership and responsibility](https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/)
+
+"Problem exists between chair and keyboard." - [You or someone else may just have a misunderstanding](https://en.wiktionary.org/wiki/PEBCAK)
