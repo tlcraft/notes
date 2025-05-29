@@ -8,6 +8,8 @@ This page lists quotes from various sources on software development or related t
 
 "If I were given an hour in which to do a problem upon which my life depended, I would spend 40 minutes studying it, 15 minutes reviewing it and 5 minutes solving it." - [Attributed to Albert Einstein](https://quoteinvestigator.com/2014/05/22/solve/)
 
+"If you can't explain it simply, you don't understand it well enough." - [Attributed to Albert Einstein](https://skeptics.stackexchange.com/questions/8742/did-einstein-say-if-you-cant-explain-it-simply-you-dont-understand-it-well-en)
+
 "You can't think of everything." - [Stephen Hawking, commenting on why Isaac Newton didn't figure out how to stabilize the solar system, in response to a question from Neil Degrasse Tyson (from A Conversation with Astrophysicist J. Richard Gott III at 26:36)](https://www.youtube.com/watch?v=VFmHSnnI0OA&t=1596s)
 
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
@@ -17,3 +19,64 @@ This page lists quotes from various sources on software development or related t
 "Don't break the chain." - [Productivity tip, attributed to comedian Jerry Seinfeld](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
+
+"Premature optimization is the root of all evils." - [Donald Knuth](https://en.wikipedia.org/wiki/Program_optimization)
+
+"Eyes open, no fear." - Brian Holmes
+
+"When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before." - [Jacob Riis](https://www.poundingtherock.com/pages/the-quote)
+
+"There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
+
+"Don't reinvent the wheel; just realign it." - [Popularized by Anthony D'Angelo](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
+
+"Triggering a fault opens the crack. Faults become errors, and errors provoke failures. That's how the cracks propogate." - [Release it! Page 29](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+
+"We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+
+"The only thing more painful than learning from experience is not learning from experience." - [Lawrence Peter](https://quoteinvestigator.com/2017/05/19/experience/)
+
+"Success is the ability to go from failure to failure without losing your enthusiasm." - [Attributed to Winston Churchill](https://quoteinvestigator.com/2014/06/28/success/)
+
+"Experience is what you get when you didn't get what you wanted" - [Randy Pasch](https://www.youtube.com/watch?v=ji5_MqicxSo)
+
+The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
+
+"Don't shave that yak!" - [Explained by Seth Godin](https://seths.blog/2005/03/dont_shave_that/)
+Sometimes addressing issues is important. To help fix problems or recude time for the team. It can drive ownership as well but you have to consider if fixing something is worth it or not. [https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b](https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b)
+
+"Is the juice worth the squeeze?" - [juice is worth the squeeze](https://en.wiktionary.org/wiki/juice_is_worth_the_squeeze)
+
+"Engineer (noun). 1. A person who does precision guess-work based on unreliable data provided by those of questionable knowledge." - Anonymous
+
+"We do these things not because they are easy, but because we thought they were going to be easy." - [The Programmers’ Credo](https://www.reddit.com/r/ProgrammerHumor/comments/etboii/the_programmers_credo/)
+
+"If estimation is guessing, requirements are rumors." - Dave Thomas
+
+"Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
+
+Give some respect to past decisions and existing code. We don't know what pressures the developers and team were under at the time. Spend some time gaining context. - [Related to Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
+
+"Cleverness of code is proportional to the confusion it creates." - [Venkat Subramaniam](https://x.com/venkat_s/status/1518006880844632066)
+
+"The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+
+"The problem with common sense is that it's not so common" - [Misquote of Voltaire](https://www.brainyquote.com/quotes/voltaire_106180)
+
+"Perfect is the enemy of good." - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
+"Here’s the thing folks. I’ve been coding 32 years. When something like this happens it’s an organizational failure. Yes, some human wrote a bad line. Someone can “git blame” and point to a human and it’s awful. But it’s the testing, the Cl/CD, the A/B testing, the metered rollouts, an oh shit button to roll it back, the code coverage, the static analysis tools, the code reviews, the organizational health, and on and on. It’s always one line of code but it’s NEVER one person. Implying inclusion policies caused a bug is simplistic, reductive, and racist. 
+
+Engineering is a team sport. Inclusion makes for good teams. Good engineering practices makes for good software. Engineering practices failed to find a bug multiple times, regardless of the seniority of the human who checked that code in. Solving the larger system thinking SDLC matters more than the null pointer check. 
+
+This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI one." - [Scott Hanslman on teamwork and blame](https://www.linkedin.com/posts/shanselman_crowdstrike-activity-7220428353269350400-DyM4)
+
+"Always assume the problem is in your code and act accordingly." -
+[Jeff Atwood on ownership and responsibility](https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/)
+
+"Problem exists between chair and keyboard." - [You or someone else may just have a misunderstanding](https://en.wiktionary.org/wiki/PEBCAK)
+
+"With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
+
+Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
+
