@@ -6,6 +6,7 @@ This repo contains a number of notes covering different topics in software devel
 - [Commands](commands.md)
 - [Git](git.md)
 - [npm](npm.md)
+- [Quality](quality.md)
 - [Quotes](quotes.md)
 - [Security](security.md)
 - [Shell](shell.md)
