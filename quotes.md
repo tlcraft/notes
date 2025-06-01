@@ -80,3 +80,4 @@ This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI o
 
 Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
 
+"Later equals never." - [LeBlanc's Law](https://yiming.dev/clipping/2019/03/21/le-blanc%27s-law-a-k-a-later-equals-never/)
