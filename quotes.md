@@ -91,3 +91,5 @@ Context and experience matter a lot when making decisions. -[Relevant Article](h
 Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Manu Ginobili](https://x.com/manuginobili/status/1897432578677768292)
 
 "I think the other way you grow your scope overtime is, I think you begin to value everybody running in the same direction, even if the direction is 3 degrees off ideal... A whole team pulling 98 degrees correct versus like half the team pulling 100% correct and the other half debating them on which is correct, I think the team pulling together is gonna get further... This is what Amazon means by disagree and commit." - [Philip Su (in conversation with Ryan Peterman at 1:05:42)](https://youtu.be/v2JxdjTi_1I?si=wzoBTsn_EDDu1W2O&t=3942)
+
+"You are the average of the five people you spend the most time with." - [Attributed to Jim Rohn](https://builtonpurposehq.com/blog/the-average-of-the-five-around-you)
