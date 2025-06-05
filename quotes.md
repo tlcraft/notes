@@ -76,6 +76,8 @@ This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI o
 
 "Problem exists between chair and keyboard." - [You or someone else may just have a misunderstanding](https://en.wiktionary.org/wiki/PEBCAK)
 
+You have to believe that whatever someone is telling you is what they truly think in order to start understanding their perspective. Even if you don't agree, you just have to realize they believe something else and work to put yourself in their shoes for a moment. Then you can work to change their perspective or your own. - Adam Flater discussing what his father explained to him about communication
+
 "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
 Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
