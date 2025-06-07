@@ -97,3 +97,5 @@ Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Ma
 "You are the average of the five people you spend the most time with." - [Attributed to Jim Rohn](https://builtonpurposehq.com/blog/the-average-of-the-five-around-you)
 
 One has to be ready to receive advice in order for it to resonate. Some things can be lost on people until they've experienced some event.
+
+It's the speaker's responsibility to ensure the listener understands them. - [Related Article](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding)
