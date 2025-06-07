@@ -98,6 +98,6 @@ Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Ma
 
 One has to be ready to receive advice in order for it to resonate. Some things can be lost on people until they've experienced some event.
 
-It's the speaker's responsibility to ensure the listener understands them. - [Unknown discussing what a professor told them. Related article](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding)[Another related article](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
+It's the speaker's responsibility to ensure the listener understands them. - Unknown discussing what a professor told them. [Related article.](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding) [Another related article.](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
 
 "The meaning of your communication is the response you get." - [Neuro-linguistic programming presupposition](https://medium.com/design-ibm/taking-responsibility-for-our-communication-b677100d61f5)
