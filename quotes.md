@@ -42,6 +42,8 @@ This page lists quotes from various sources on software development or related t
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 
+The Dunning–Kruger effect is a cognitive bias in which people with limited competence in a particular domain overestimate their abilities. - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+
 "Don't shave that yak!" - [Explained by Seth Godin](https://seths.blog/2005/03/dont_shave_that/)
 Sometimes addressing issues is important. To help fix problems or recude time for the team. It can drive ownership as well but you have to consider if fixing something is worth it or not. [https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b](https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b)
 
@@ -76,7 +78,32 @@ This isn’t a “git gud C++ is hard” issue and it damn well isn’t an DEI o
 
 "Problem exists between chair and keyboard." - [You or someone else may just have a misunderstanding](https://en.wiktionary.org/wiki/PEBCAK)
 
+You have to believe that whatever someone is telling you is what they truly think in order to start understanding their perspective. Even if you don't agree, you just have to realize they believe something else and work to put yourself in their shoes for a moment. Then you can work to change their perspective or your own. - Adam Flater discussing what his father explained to him about communication
+
 "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
 Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
 
+"Later equals never." - [LeBlanc's Law](https://yiming.dev/clipping/2019/03/21/le-blanc%27s-law-a-k-a-later-equals-never/)
+
+"To reread at least monthly:
+
+- 'I don’t know' is not an admission of ignorance. It’s an expression of intellectual humility.
+- 'I was wrong' is not a confession of failure. It’s a display of intellectual integrity.
+- 'I don’t understand' is not a sign of stupidity. It’s a catalyst for intellectual curiosity.
+
+Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Manu Ginobili](https://x.com/manuginobili/status/1897432578677768292)
+
+"I think the other way you grow your scope overtime is, I think you begin to value everybody running in the same direction, even if the direction is 3 degrees off ideal... A whole team pulling 98 degrees correct versus like half the team pulling 100% correct and the other half debating them on which is correct, I think the team pulling together is gonna get further... This is what Amazon means by disagree and commit." - [Philip Su (in conversation with Ryan Peterman at 1:05:42)](https://youtu.be/v2JxdjTi_1I?si=wzoBTsn_EDDu1W2O&t=3942)
+
+"You are the average of the five people you spend the most time with." - [Attributed to Jim Rohn](https://builtonpurposehq.com/blog/the-average-of-the-five-around-you)
+
+One has to be ready to receive advice in order for it to resonate. Some things can be lost on people until they've experienced some event.
+
+It's the speaker's responsibility to ensure the listener understands them. - Unknown discussing what a professor told them. [Related article.](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding) [Another related article.](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
+
+"The meaning of your communication is the response you get." - [Neuro-linguistic programming presupposition](https://medium.com/design-ibm/taking-responsibility-for-our-communication-b677100d61f5)
+
+"Everything you need to know about Knowledge and Expertise in one handy graph." - [Simon Wardley](https://x.com/swardley/status/526074463175966720)
+
+![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
