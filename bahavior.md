@@ -6,11 +6,21 @@ This section lists various notes on behavior and mindset. Some items pull from i
 
 The FAA points out five hazardous attitudes and how these can impact decision making. You should look out for these in yourself and others and work to mitigate these when needed.
 
+Issues
+
 - Impulsivity - when someone responds quickly without thinking things through
 - Anti-authority - when someone doesn't want to be told what to do
 - Macho - when someone's ego gets in their way and they want to prove people wrong
 - Invulnerability - when someone thinks they can do no wrong
 - Resignation - when someone feels hopeless about doing anything
+
+Solutions
+
+- Impulsivity - slow down and think thing through
+- Anti-authority - follow the rules since they are usually right
+- Macho - taking chances is foolish
+- Invulnerability - it could happen to me
+- Resignation - you're not helpless and can make a difference
 
 Resources
 
