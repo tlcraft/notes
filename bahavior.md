@@ -16,9 +16,9 @@ Issues
 
 Solutions
 
-- Impulsivity - slow down and think thing through
+- Impulsivity - slow down and think things through
 - Anti-authority - follow the rules since they are usually right
-- Macho - taking chances is foolish
+- Macho - taking chances is foolish, leave ego out of it
 - Invulnerability - it could happen to me
 - Resignation - you're not helpless and can make a difference
 
