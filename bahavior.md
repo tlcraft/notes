@@ -31,3 +31,10 @@ Resources
 ## - Apathy
 
 Watch out for apathy in the workplace. Toxic cultures can shut down people and it's tough to change a culture once it's lost. Ideally teams are collaborative and self-reliant. Of course, people have different personality types but keep a pulse on the culture and work to empower people making their own decisions independently where appropriate.
+
+## Perimeter of Ignorance
+
+Be aware of your perimeter of ignorance. Keep a beginner's mind and work to learn new things. Problem solving is at the core of software development and most things in life.
+
+- [The Perimeter of Ignorance by Neil deGrasse Tyson](https://neildegrassetyson.com/essays/2005-11-the-perimeter-of-ignorance/)
+- [The Perimeter of Ignorance by Simon Pridmore](https://xray-mag.com/content/perimeter-ignorance)
