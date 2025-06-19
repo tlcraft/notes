@@ -38,3 +38,12 @@ Be aware of your perimeter of ignorance. Keep a beginner's mind and work to lear
 
 - [The Perimeter of Ignorance by Neil deGrasse Tyson](https://neildegrassetyson.com/essays/2005-11-the-perimeter-of-ignorance/)
 - [The Perimeter of Ignorance by Simon Pridmore](https://xray-mag.com/content/perimeter-ignorance)
+
+## STOP Skill
+
+Before reacting to something take a moment to think things through. The [STOP skill](https://www.charliehealth.com/post/what-is-the-dbt-stop-skill) can help you make a mindful decision on how to proceed with something. This technique can help in life in general from stressful situations to even small interactions.
+
+- S low down
+- T ake a breath
+- O bserve what you’re feeling/thinking
+- P roceed with a healthy thought or action based on what you need
