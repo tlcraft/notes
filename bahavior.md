@@ -47,3 +47,9 @@ Before reacting to something take a moment to think things through. The [STOP sk
 - T ake a breath
 - O bserve what you’re feeling/thinking
 - P roceed with a healthy thought or action based on what you need
+
+## Acknowledge, Interrupt, Reframe
+
+Acknowledging, interrupting and reframing things is an important skill for growth. It can help us change patterns in our lives from bad habits to interpersonal skills.
+
+- [How to Recognise, Interrupt, and Transform Your Life Patterns](https://layinkasanni.com/how-to-recognise-interrupt-and-transform-your-life-patterns)
