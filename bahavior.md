@@ -53,3 +53,9 @@ Before reacting to something take a moment to think things through. The [STOP sk
 Acknowledging, interrupting and reframing things is an important skill for growth. It can help us change patterns in our lives from bad habits to interpersonal skills.
 
 - [How to Recognise, Interrupt, and Transform Your Life Patterns](https://layinkasanni.com/how-to-recognise-interrupt-and-transform-your-life-patterns)
+
+## Be Reasonably Unreasonable
+
+Kevin Smith describes his approach to life and working toward goals in the video below. You should be reasonably unreasonable in dreaming big and working hard to get there. "Why not try to make your dreams come true?"
+
+- [Kevin Smith: You must be unreasonable to achieve your dreams | Big Think+](https://www.youtube.com/watch?v=j-55ZnCcNIs)
