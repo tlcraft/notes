@@ -59,3 +59,7 @@ Acknowledging, interrupting and reframing things is an important skill for growt
 Kevin Smith describes his approach to life and working toward goals in the video below. You should be reasonably unreasonable in dreaming big and working hard to get there. "Why not try to make your dreams come true?"
 
 - [Kevin Smith: You must be unreasonable to achieve your dreams | Big Think+](https://www.youtube.com/watch?v=j-55ZnCcNIs)
+
+## Trust Others
+
+Put trust in others and see how things go before intervening and giving more guidance. Set a goal or expectation and let someone prove themselves and give them autonomy to work through something on their own. Give people the benefit of the doubt to start with. Give them space to learn and grow and fail and then help if needed.
