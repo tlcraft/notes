@@ -63,3 +63,7 @@ Kevin Smith describes his approach to life and working toward goals in the video
 ## Trust Others
 
 Put trust in others and see how things go before intervening and giving more guidance. Set a goal or expectation and let someone prove themselves and give them autonomy to work through something on their own. Give people the benefit of the doubt to start with. Give them space to learn and grow and fail and then help if needed.
+
+## Communication
+
+Keep in mind that communication and listening are very important in work and life. It's easy for people to be on different pages when we think we're not. Consistent and central documentation can help with keeping people on track. Syncing with people regularly and as needed will help as well. [Tree swing cartoons](https://en.wikipedia.org/wiki/Tree_swing_cartoon) help illustrate how our internal visions can be misaligned.
