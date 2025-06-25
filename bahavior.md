@@ -69,3 +69,5 @@ Put trust in others and see how things go before intervening and giving more gui
 Keep in mind that communication and listening are very important in work and life. It's easy for people to be on different pages when we think we're not. Consistent and central documentation can help with keeping people on track. Syncing with people regularly and as needed will help as well. [Tree swing cartoons](https://en.wikipedia.org/wiki/Tree_swing_cartoon) help illustrate how our internal visions can be misaligned.
 
 The [telephone game](https://en.wikipedia.org/wiki/Telephone_game) is a great example of how communication can break down as information is passed from one person to the next. Team collaboration and communication is important, not only in working to ensure people are on the same page but giving people grace when mistakes are made.
+
+The [beer game](https://en.wikipedia.org/wiki/Beer_distribution_game) is another example of the importance of communication and collaboration. Only by working together can a group of people manage a supply chain and not overwhelm each other.
