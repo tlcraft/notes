@@ -82,3 +82,7 @@ Keep in mind that communication and listening are very important in work and lif
 The [telephone game](https://en.wikipedia.org/wiki/Telephone_game) is a great example of how communication can break down as information is passed from one person to the next. Team collaboration and communication is important, not only in working to ensure people are on the same page but giving people grace when mistakes are made.
 
 The [beer game](https://en.wikipedia.org/wiki/Beer_distribution_game) is another example of the importance of communication and collaboration. Only by working together can a group of people manage a supply chain and not overwhelm each other.
+
+## Proactive Communication
+
+Be proactive in communication with teams and with management. Ensure people are getting the right amount of details in the right frequency. Setup a cadence early and get feedback on their expectations and check in if the cadence needs to be adjusted periodically.
