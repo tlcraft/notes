@@ -12,6 +12,7 @@ This section lists various notes on behavior and mindset. Some items pull from i
 - [Be Reasonably Unreasonable](#be-reasonably-unreasonable)
 - [Trust Others](#trust-others)
 - [Communication](#communication)
+- [Proactive Communication](#proactive-communication)
 
 ## FAA Hazardous Attitudes
 
