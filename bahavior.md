@@ -72,6 +72,21 @@ Kevin Smith describes his approach to life and working toward goals in the video
 
 - [Kevin Smith: You must be unreasonable to achieve your dreams | Big Think+](https://www.youtube.com/watch?v=j-55ZnCcNIs)
 
+## Success
+
+John Amaechi discusses his approach to success. "Success does require a clear vivid and bold picture of the future. It's part of what makes the dull, hard stuff worth it as you go along... What one small step will take me towards this vision or goal that I have?"
+
+John describes how you must "pay the FEE" as you work toward goals.
+
+- Focus - give full attention to a task
+- Effort - you have to put in some effort working toward your goals. Give 100% to drive you forward
+- Execution - Well executed practice makes perfect. Be conscious of your actions
+
+John goes on to say we need to have resilience. "There will be dips in performance but you will grow. Follow your ambitions.
+The voice in your head telling you that you can't do something isn't you, it's just a voice that is trying to make you feel bad. It's a heckler in your head but you can ignore it. The heckler responds badly to really smart questions being asked. Question the voices and focus on your past successes. Build a support network, a close group who can help you thrive. Success isn't achieved alone."
+
+- [Why most people are only giving 70%—and what happens at 100% | John Amaechi for Big Think+](https://www.youtube.com/watch?v=KYs3M_qB6hs)
+
 ## Trust Others
 
 Put trust in others and see how things go before intervening and giving more guidance. Set a goal or expectation and let someone prove themselves and give them autonomy to work through something on their own. Give people the benefit of the doubt to start with. Give them space to learn and grow and fail and then help if needed.
