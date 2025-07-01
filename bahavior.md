@@ -10,6 +10,7 @@ This section lists various notes on behavior and mindset. Some items pull from i
 - [STOP Skill](#stop-skill)
 - [Acknowledge, Interrupt, Reframe](#acknowledge-interrupt-reframe)
 - [Be Reasonably Unreasonable](#be-reasonably-unreasonable)
+- [Success](#success)
 - [Trust Others](#trust-others)
 - [Communication](#communication)
 - [Proactive Communication](#proactive-communication)
