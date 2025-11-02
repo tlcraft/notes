@@ -111,3 +111,5 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 ![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
 
 "Don't attribute to malice what you can attribute to ignorance." - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+
+"Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
