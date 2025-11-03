@@ -112,4 +112,7 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 
 "Don't attribute to malice what you can attribute to ignorance." - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
+“Almost everyone, almost always, is just trying to be helpful.”
+- Attributed to a Don Gray (?)
+
 "Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
