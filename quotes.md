@@ -118,3 +118,5 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 "Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
 
 "Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
+
+"A delayed game is eventually good, but a rushed game is forever bad." - [Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
