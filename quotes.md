@@ -112,11 +112,12 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 
 "Don't attribute to malice what you can attribute to ignorance." - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
-“Almost everyone, almost always, is just trying to be helpful.”
-- Attributed to a Don Gray (?)
+“Almost everyone, almost always, is just trying to be helpful.” - Attributed to a Don Gray (?)
 
 "Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
 
 "Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
 
 "A delayed game is eventually good, but a rushed game is forever bad." - [Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
+
+"At some point, the learning stops and the pain begins." - Attributed to S. Rao Kosaraju, Johns Hopkins University
