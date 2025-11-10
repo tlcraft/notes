@@ -127,3 +127,5 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 "Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
 
 "To each their own." - [Latin phrase suum cuique, now used to express that people have different preferences, likes, and dislikes](https://en.wikipedia.org/wiki/Suum_cuique)
+
+"He will win who knows when to fight and when not to fight." - [Sun Tzu](https://www.goodreads.com/quotes/8707883-1-he-will-win-who-knows-when-to-fight-and)
