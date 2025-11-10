@@ -125,3 +125,5 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - [Attributed to Gautama Buddha](https://fakebuddhaquotes.com/do-not-dwell-in-the-past-do-not-dream-of-the-future/)
 
 "Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
+
+"To each their own." - [Latin phrase suum cuique, now used to express that people have different preferences, likes, and dislikes](https://en.wikipedia.org/wiki/Suum_cuique)
