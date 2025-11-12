@@ -129,3 +129,5 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 "To each their own." - [Latin phrase suum cuique, now used to express that people have different preferences, likes, and dislikes](https://en.wikipedia.org/wiki/Suum_cuique)
 
 "He will win who knows when to fight and when not to fight." - [Sun Tzu](https://www.goodreads.com/quotes/8707883-1-he-will-win-who-knows-when-to-fight-and)
+
+"Every successful person you admire survived a season you didn’t see." - [Leila Hormozi](https://www.linkedin.com/posts/leilahormozi_every-successful-person-you-admire-survived-activity-7297744198814814208-SV3Q)
