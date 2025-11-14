@@ -52,6 +52,12 @@ The Dunning–Kruger effect is a cognitive bias in which people with limited com
 
 "We do these things not because they are easy, but because we thought they were going to be easy." - [The Programmers’ Credo](https://www.reddit.com/r/ProgrammerHumor/comments/etboii/the_programmers_credo/)
 
+"If estimation is guessing, requirements are rumors." - Dave Thomas
+
+"The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+
+"The problem with common sense is that it's not so common" - [Misquote of Voltaire](https://www.brainyquote.com/quotes/voltaire_106180)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
@@ -67,6 +73,12 @@ The Dunning–Kruger effect is a cognitive bias in which people with limited com
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
 
 "When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before." - [Jacob Riis](https://www.poundingtherock.com/pages/the-quote)
+
+"Perfect is the enemy of good." - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
+"Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
+
+"Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
 
 ### Empathy
 
@@ -122,13 +134,10 @@ Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Ma
 
 
 
-"If estimation is guessing, requirements are rumors." - Dave Thomas
 
-"The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 
-"The problem with common sense is that it's not so common" - [Misquote of Voltaire](https://www.brainyquote.com/quotes/voltaire_106180)
 
-"Perfect is the enemy of good." - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
 
 "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
@@ -152,7 +161,7 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 
 
 
-"Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
+
 
 "Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
 
@@ -162,4 +171,4 @@ It's the speaker's responsibility to ensure the listener understands them. - Unk
 
 "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - [Attributed to Gautama Buddha](https://fakebuddhaquotes.com/do-not-dwell-in-the-past-do-not-dream-of-the-future/)
 
-"Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
+
