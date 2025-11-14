@@ -11,6 +11,8 @@ This page lists quotes from various sources on software development or related t
 - [Empathy](#empathy)
 - [Priorities](#priorities)
 - [Continous Learning](#continous-learning)
+- [Team Work](#team-work)
+- [Communication](#communication)
 
 ### Knowledge
 
@@ -23,6 +25,14 @@ This page lists quotes from various sources on software development or related t
 "You can't think of everything." - [Stephen Hawking, commenting on why Isaac Newton didn't figure out how to stabilize the solar system, in response to a question from Neil Degrasse Tyson (from A Conversation with Astrophysicist J. Richard Gott III at 26:36)](https://www.youtube.com/watch?v=VFmHSnnI0OA&t=1596s)
 
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
+
+Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
+
+"Everything you need to know about Knowledge and Expertise in one handy graph." - [Simon Wardley](https://x.com/swardley/status/526074463175966720)
+
+![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
+
+"At some point, the learning stops and the pain begins." - Attributed to S. Rao Kosaraju, Johns Hopkins University
 
 ### Design
 
@@ -57,6 +67,16 @@ The Dunning–Kruger effect is a cognitive bias in which people with limited com
 "The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 
 "The problem with common sense is that it's not so common" - [Misquote of Voltaire](https://www.brainyquote.com/quotes/voltaire_106180)
+
+"With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
+
+"Later equals never." - [LeBlanc's Law](https://yiming.dev/clipping/2019/03/21/le-blanc%27s-law-a-k-a-later-equals-never/)
+
+"You are the average of the five people you spend the most time with." - [Attributed to Jim Rohn](https://builtonpurposehq.com/blog/the-average-of-the-five-around-you)
+
+"Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
+
+"A delayed game is eventually good, but a rushed game is forever bad." - [Attributed to Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
 
 ### Goals
 
@@ -109,6 +129,8 @@ You have to believe that whatever someone is telling you is what they truly thin
 
 "Every successful person you admire survived a season you didn’t see." - [Leila Hormozi](https://www.linkedin.com/posts/leilahormozi_every-successful-person-you-admire-survived-activity-7297744198814814208-SV3Q)
 
+"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - [Attributed to Gautama Buddha](https://fakebuddhaquotes.com/do-not-dwell-in-the-past-do-not-dream-of-the-future/)
+
 ### Priorities
 
 "Change is terrible, unless it's great." - [Jeremy Barton from Framework Design Guidelines](https://a.co/d/9tUIaFr)
@@ -130,45 +152,14 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Manu Ginobili](https://x.com/manuginobili/status/1897432578677768292)
 
 
-
-
-
-
-
-
-
-
-
-"With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
-
-Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
-
-"Later equals never." - [LeBlanc's Law](https://yiming.dev/clipping/2019/03/21/le-blanc%27s-law-a-k-a-later-equals-never/)
+### Team Work
 
 "I think the other way you grow your scope overtime is, I think you begin to value everybody running in the same direction, even if the direction is 3 degrees off ideal... A whole team pulling 98 degrees correct versus like half the team pulling 100% correct and the other half debating them on which is correct, I think the team pulling together is gonna get further... This is what Amazon means by disagree and commit." - [Philip Su (in conversation with Ryan Peterman at 1:05:42)](https://youtu.be/v2JxdjTi_1I?si=wzoBTsn_EDDu1W2O&t=3942)
 
-"You are the average of the five people you spend the most time with." - [Attributed to Jim Rohn](https://builtonpurposehq.com/blog/the-average-of-the-five-around-you)
+### Communication
 
 One has to be ready to receive advice in order for it to resonate. Some things can be lost on people until they've experienced some event.
 
 It's the speaker's responsibility to ensure the listener understands them. - Unknown discussing what a professor told them. [Related article.](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding) [Another related article.](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
 
 "The meaning of your communication is the response you get." - [Neuro-linguistic programming presupposition](https://medium.com/design-ibm/taking-responsibility-for-our-communication-b677100d61f5)
-
-"Everything you need to know about Knowledge and Expertise in one handy graph." - [Simon Wardley](https://x.com/swardley/status/526074463175966720)
-
-![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
-
-
-
-
-
-"Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
-
-"A delayed game is eventually good, but a rushed game is forever bad." - [Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
-
-"At some point, the learning stops and the pain begins." - Attributed to S. Rao Kosaraju, Johns Hopkins University
-
-"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - [Attributed to Gautama Buddha](https://fakebuddhaquotes.com/do-not-dwell-in-the-past-do-not-dream-of-the-future/)
-
-
