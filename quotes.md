@@ -40,7 +40,7 @@ Context and experience matter a lot when making decisions. -[Relevant Article](h
 
 "Program to an interface, not an implementation." - [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns#Introduction)
 
-"Premature optimization is the root of all evils." - [Donald Knuth](https://en.wikipedia.org/wiki/Program_optimization)
+"We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%." - [Donald Knuth](https://en.wikipedia.org/wiki/Program_optimization)
 
 "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
