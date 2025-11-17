@@ -1,6 +1,6 @@
 # Quotes
 
-This page lists quotes from various sources on software development or related topics.
+This page lists quotes from various sources on software development and related topics.
 
 ## Sections
 
@@ -15,8 +15,6 @@ This page lists quotes from various sources on software development or related t
 - [Communication](#communication)
 
 ### Knowledge
-
-"If I were given an hour in which to do a problem upon which my life depended, I would spend 40 minutes studying it, 15 minutes reviewing it and 5 minutes solving it." - [Attributed to Albert Einstein](https://quoteinvestigator.com/2014/05/22/solve/)
 
 "If you can't explain it simply, you don't understand it well enough." - [Attributed to Albert Einstein](https://skeptics.stackexchange.com/questions/8742/did-einstein-say-if-you-cant-explain-it-simply-you-dont-understand-it-well-en)
 
@@ -36,6 +34,8 @@ Context and experience matter a lot when making decisions. -[Relevant Article](h
 
 ### Design
 
+"If I were given an hour in which to do a problem upon which my life depended, I would spend 40 minutes studying it, 15 minutes reviewing it and 5 minutes solving it." - [Attributed to Albert Einstein](https://quoteinvestigator.com/2014/05/22/solve/)
+
 "Simple things should be simple and complex things should be possible." - [Alan Kay](https://www.quora.com/What-is-the-story-behind-Alan-Kay-s-adage-Simple-things-should-be-simple-complex-things-should-be-possible)
 
 "Program to an interface, not an implementation." - [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns#Introduction)
@@ -50,9 +50,9 @@ Context and experience matter a lot when making decisions. -[Relevant Article](h
 
 "Cleverness of code is proportional to the confusion it creates." - [Venkat Subramaniam](https://x.com/venkat_s/status/1518006880844632066)
 
-### Miscellaneous
+"If estimation is guessing, requirements are rumors." - Dave Thomas
 
-"Eyes open, no fear." - Brian Holmes
+### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 
@@ -61,8 +61,6 @@ The Dunning–Kruger effect is a cognitive bias in which people with limited com
 "Engineer (noun). 1. A person who does precision guess-work based on unreliable data provided by those of questionable knowledge." - Anonymous
 
 "We do these things not because they are easy, but because we thought they were going to be easy." - [The Programmers’ Credo](https://www.reddit.com/r/ProgrammerHumor/comments/etboii/the_programmers_credo/)
-
-"If estimation is guessing, requirements are rumors." - Dave Thomas
 
 "The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - [Alberto Brandolini](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 
@@ -89,6 +87,8 @@ The Dunning–Kruger effect is a cognitive bias in which people with limited com
 "Experience is what you get when you didn't get what you wanted." - [Randy Pasch](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
 "Don't break the chain." - [Productivity tip, attributed to comedian Jerry Seinfeld](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
+
+"Eyes open, no fear." - Brian Holmes
 
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
 
@@ -125,7 +125,7 @@ You have to believe that whatever someone is telling you is what they truly thin
 
 "To each their own." - [Latin phrase suum cuique, now used to express that people have different preferences, likes, and dislikes](https://en.wikipedia.org/wiki/Suum_cuique)
 
-"He will win who knows when to fight and when not to fight." - [Sun Tzu](https://www.goodreads.com/quotes/8707883-1-he-will-win-who-knows-when-to-fight-and)
+"He will win who knows when to fight and when not to fight. (Pick your battles)" - [Sun Tzu](https://www.goodreads.com/quotes/8707883-1-he-will-win-who-knows-when-to-fight-and)
 
 "Every successful person you admire survived a season you didn’t see." - [Leila Hormozi](https://www.linkedin.com/posts/leilahormozi_every-successful-person-you-admire-survived-activity-7297744198814814208-SV3Q)
 
