@@ -58,6 +58,8 @@ The Peter Principle is an observation that people in a hierarchy tend to rise to
 
 The Dunning–Kruger effect is a cognitive bias in which people with limited competence in a particular domain overestimate their abilities. - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
+The Pot Roast Principle is an example of how we should review routines and traditions and determine if there are better ways to do things. Don't just follow the same path because that's how it's always been. - [An example of the Pot Roast Story – A Leadership Tale](https://drmarjorieblum.com/2013/08/16/the-pot-roast-story-a-leadership-tale/)
+
 "Engineer (noun). 1. A person who does precision guess-work based on unreliable data provided by those of questionable knowledge." - Anonymous
 
 "We do these things not because they are easy, but because we thought they were going to be easy." - [The Programmers’ Credo](https://www.reddit.com/r/ProgrammerHumor/comments/etboii/the_programmers_credo/)
