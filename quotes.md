@@ -24,7 +24,7 @@ This page lists quotes from various sources on software development and related 
 
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
 
-Context and experience matter a lot when making decisions. -[Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
+Context and experience matter a lot when making decisions. - [Relevant Article](https://hbr.org/2020/01/the-elements-of-good-judgment)
 
 "Everything you need to know about Knowledge and Expertise in one handy graph." - [Simon Wardley](https://x.com/swardley/status/526074463175966720)
 
@@ -91,6 +91,9 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 "Experience is what you get when you didn't get what you wanted." - [Randy Pasch](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
 "Don't break the chain." - [Productivity tip, attributed to comedian Jerry Seinfeld](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
+
+What consistency really is, just showing up every day for at least a little bit.  
+<img src="images/consistency.png" alt="Image displaying two groups of glasses. One with full glasses described as what people think consistency is. The other with glasses filled to varying amounts described as what consistency actually is." width="400"/>
 
 "Eyes open, no fear." - Brian Holmes
 
