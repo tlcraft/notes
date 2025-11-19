@@ -52,6 +52,8 @@ Context and experience matter a lot when making decisions. -[Relevant Article](h
 
 "If estimation is guessing, requirements are rumors." - Dave Thomas
 
+"The architecture should tread the line between underspecifying and overspecifying the sysetm." - [Code Complete 2 page 53](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
