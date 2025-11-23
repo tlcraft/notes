@@ -73,8 +73,8 @@ From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/
 
 ### ls
 
-The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`).
-
+The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`). The `-l` flag will display additional information about the files (such as ownership and last modified date).
+ 
 - [ls](https://en.wikipedia.org/wiki/Ls)
 
 ### Multiline Commands
