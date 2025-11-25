@@ -11,6 +11,7 @@ Notes on various CLI commands.
 - [grep](#grep)
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
+- [ls](#ls)
 - [Multiline Commands](#multiline-commands)
 - [ping](#ping)
 - [sed](#sed)
@@ -69,6 +70,12 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, `ipconfig` displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters."
 
 - [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
+
+### ls
+
+The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`). The `-l` flag will display additional information about the files (such as ownership and last modified date).
+ 
+- [ls](https://en.wikipedia.org/wiki/Ls)
 
 ### Multiline Commands
 
