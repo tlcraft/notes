@@ -172,3 +172,5 @@ One has to be ready to receive advice in order for it to resonate. Some things c
 It's the speaker's responsibility to ensure the listener understands them. - Unknown discussing what a professor told them. [Related article.](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding) [Another related article.](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
 
 "The meaning of your communication is the response you get." - [Neuro-linguistic programming presupposition](https://medium.com/design-ibm/taking-responsibility-for-our-communication-b677100d61f5)
+
+"The ability to think a thought depends on knowing words capable of expressing it." - [Sapir-Whorf Hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity)
