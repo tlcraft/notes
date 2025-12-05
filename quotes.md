@@ -82,6 +82,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "A delayed game is eventually good, but a rushed game is forever bad." - [Attributed to Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
 
+"Computing is the only profession in which a single mind is obliged to span the distance from a bit to a few hundred megabytes, a ratio of 1 to 10^9, or nine orders of magnitude. 'Compared to that number of semantic levels, the average mathematical theory is almost flat. By evoking the need for deep conceptual hierarchies, the automatic computer confronts us with a radically new intellectual challenge that has no precedent in our history.'" - [Code Complete 2 page 78](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
