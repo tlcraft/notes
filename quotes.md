@@ -111,6 +111,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
 
+"Embrace growth and believe that maintaining your goals and overcoming challenges will continue to teach you something." - [Rally Coach](https://www.rallyhealth.com/rally-coach)
+
 ### Empathy
 
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
