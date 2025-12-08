@@ -115,6 +115,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "Create a SMART goal to ensure your goal is realistic. Use the Goldilocks rule - not too hard, not too easy. Just right." - [Rally Coach](https://www.rallyhealth.com/rally-coach)
 
+"Now, physically, if I can't do it, then I can't do it. But physically, if I can do it and I just don't feel like doing it, that's a whole different lens." - [Michael Jordan](https://x.com/NBAonNBC/status/1983364626726138150?s=20)
+
 ### Empathy
 
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
