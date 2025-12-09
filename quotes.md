@@ -56,6 +56,15 @@ Context and experience matter a lot when making decisions. - [Relevant Article](
 
 "With building it's clear that it's unreasonable for clients to ask for a bid before telling you what you're going to build. Your clients wouldn't want you to show up with wood, hammer, and nails and start spending their money before the architect had finished the blueprints. People tend to understand software development less than they understand two-by-fours and sheetrock, however, so the clients you work with might not immediately understand why you want to plan requirements development as a separate project. You might need to explain your reasoning to them." - [Code Complete 2 page 56](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+Four rules of simple design:
+
+- Passes the tests
+- Reveals intention
+- No duplication
+- Fewest elements
+
+- [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
