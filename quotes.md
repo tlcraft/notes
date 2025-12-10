@@ -166,6 +166,9 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 
 "Is the juice worth the squeeze?" - [juice is worth the squeeze](https://en.wiktionary.org/wiki/juice_is_worth_the_squeeze)
 
+The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks, pebbles and sand. Important, time consuming and sensitive tasks would be the rocks, smaller tasks would be pebbles and the sand are things that fill in around those. We only have time for a few big tasks per day (the rocks), with a few smaller tasks (the pebbles) between them surrounded by our normal daily tasks (the sand) which aren't on a strict deadline. 
+- [Prioritize Your To-Do List By Imagining Rocks in a Jar](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
+
 
 ### Continous Learning
 
