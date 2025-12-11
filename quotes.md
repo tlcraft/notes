@@ -93,6 +93,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "Computing is the only profession in which a single mind is obliged to span the distance from a bit to a few hundred megabytes, a ratio of 1 to 10^9, or nine orders of magnitude. 'Compared to that number of semantic levels, the average mathematical theory is almost flat. By evoking the need for deep conceptual hierarchies, the automatic computer confronts us with a radically new intellectual challenge that has no precedent in our history.'" - [Code Complete 2 page 78](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"Make the change easy, then make the easy change." - [Kent Beck](https://x.com/KentBeck/status/250733358307500032?s=20)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
@@ -169,7 +171,6 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks, pebbles and sand. Important, time consuming and sensitive tasks would be the rocks, smaller tasks would be pebbles and the sand are things that fill in around those. We only have time for a few big tasks per day (the rocks), with a few smaller tasks (the pebbles) between them surrounded by our normal daily tasks (the sand) which aren't on a strict deadline. 
 - [Prioritize Your To-Do List By Imagining Rocks in a Jar](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 
-
 ### Continous Learning
 
 "To reread at least monthly:
@@ -179,7 +180,6 @@ The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks,
 - 'I don’t understand' is not a sign of stupidity. It’s a catalyst for intellectual curiosity.
 
 Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Manu Ginobili](https://x.com/manuginobili/status/1897432578677768292)
-
 
 ### Team Work
 
