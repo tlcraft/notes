@@ -171,6 +171,8 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks, pebbles and sand. Important, time consuming and sensitive tasks would be the rocks, smaller tasks would be pebbles and the sand are things that fill in around those. We only have time for a few big tasks per day (the rocks), with a few smaller tasks (the pebbles) between them surrounded by our normal daily tasks (the sand) which aren't on a strict deadline. 
 - [Prioritize Your To-Do List By Imagining Rocks in a Jar](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 
+"The 1-3-5 rule acknowledges that in a typical day, you just don’t have time to do it all. What you do reasonably have time for is one major task, three medium-sized tasks, and five little ones." - [Make a Better To-Do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
+
 ### Continous Learning
 
 "To reread at least monthly:
