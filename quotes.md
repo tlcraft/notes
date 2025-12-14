@@ -56,6 +56,15 @@ Context and experience matter a lot when making decisions. - [Relevant Article](
 
 "With building it's clear that it's unreasonable for clients to ask for a bid before telling you what you're going to build. Your clients wouldn't want you to show up with wood, hammer, and nails and start spending their money before the architect had finished the blueprints. People tend to understand software development less than they understand two-by-fours and sheetrock, however, so the clients you work with might not immediately understand why you want to plan requirements development as a separate project. You might need to explain your reasoning to them." - [Code Complete 2 page 56](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+Four rules of simple design:
+
+- Passes the tests
+- Reveals intention
+- No duplication
+- Fewest elements
+
+- [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
@@ -81,6 +90,10 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 "Plans are useless, but planning is indispensable." - [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
 
 "A delayed game is eventually good, but a rushed game is forever bad." - [Attributed to Shigeru Miyamoto](https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever/)
+
+"Computing is the only profession in which a single mind is obliged to span the distance from a bit to a few hundred megabytes, a ratio of 1 to 10^9, or nine orders of magnitude. 'Compared to that number of semantic levels, the average mathematical theory is almost flat. By evoking the need for deep conceptual hierarchies, the automatic computer confronts us with a radically new intellectual challenge that has no precedent in our history.'" - [Code Complete 2 page 78](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
+"Make the change easy, then make the easy change." - [Kent Beck](https://x.com/KentBeck/status/250733358307500032?s=20)
 
 ### Goals
 
@@ -108,6 +121,12 @@ What consistency really is, just showing up every day for at least a little bit.
 "Whether you think you can, or you think you can’t – you’re right." - [Henry Ford](https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re)
 
 "Never stop. Never stop. You must continue every day improving and working hard." - [Alex González-Urbón's mother on life and making hamburgers](https://youtu.be/3qWzILxqovk?si=27EJhYSrXK7xhU3x&t=2617)
+
+"Embrace growth and believe that maintaining your goals and overcoming challenges will continue to teach you something." - [Rally Coach](https://www.rallyhealth.com/rally-coach)
+
+"Create a SMART goal to ensure your goal is realistic. Use the Goldilocks rule - not too hard, not too easy. Just right." - [Rally Coach](https://www.rallyhealth.com/rally-coach)
+
+"Now, physically, if I can't do it, then I can't do it. But physically, if I can do it and I just don't feel like doing it, that's a whole different lens." - [Michael Jordan](https://x.com/NBAonNBC/status/1983364626726138150?s=20)
 
 ### Empathy
 
@@ -149,6 +168,10 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 
 "Is the juice worth the squeeze?" - [juice is worth the squeeze](https://en.wiktionary.org/wiki/juice_is_worth_the_squeeze)
 
+The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks, pebbles and sand. Important, time consuming and sensitive tasks would be the rocks, smaller tasks would be pebbles and the sand are things that fill in around those. We only have time for a few big tasks per day (the rocks), with a few smaller tasks (the pebbles) between them surrounded by our normal daily tasks (the sand) which aren't on a strict deadline. 
+- [Prioritize Your To-Do List By Imagining Rocks in a Jar](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
+
+"The 1-3-5 rule acknowledges that in a typical day, you just don’t have time to do it all. What you do reasonably have time for is one major task, three medium-sized tasks, and five little ones." - [Make a Better To-Do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
 
 ### Continous Learning
 
@@ -159,7 +182,6 @@ Sometimes addressing issues is important. To help fix problems or reduce time fo
 - 'I don’t understand' is not a sign of stupidity. It’s a catalyst for intellectual curiosity.
 
 Thanks [@AdamMGrant](https://x.com/AdamMGrant/status/1886763294586802617)" - [Manu Ginobili](https://x.com/manuginobili/status/1897432578677768292)
-
 
 ### Team Work
 
@@ -172,3 +194,5 @@ One has to be ready to receive advice in order for it to resonate. Some things c
 It's the speaker's responsibility to ensure the listener understands them. - Unknown discussing what a professor told them. [Related article.](https://www.howcommunicationworks.com/blog/2017/3/11/whats-so-funny-bout-peace-love-and-understanding) [Another related article.](https://www.howcommunicationworks.com/blog/2017/2/18/forget-the-sender-message-receiver-model-of-communication-language-is-not-a-code)
 
 "The meaning of your communication is the response you get." - [Neuro-linguistic programming presupposition](https://medium.com/design-ibm/taking-responsibility-for-our-communication-b677100d61f5)
+
+"The ability to think a thought depends on knowing words capable of expressing it." - [Sapir-Whorf Hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity)
