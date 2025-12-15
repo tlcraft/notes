@@ -3,6 +3,7 @@
 ## Contents
 
 - [Change Branches](#change-branches)
+- [Set upstream branch](#set-upstream-branch)
 - [Checkout a Tag](#checkout-a-tag)
 - [Empty Commits](#empty-commits)
 - [Get Remote URL](#get-remote-url)
@@ -18,6 +19,17 @@ You can swap back to the last branch you were on by using a dash with `checkout`
 git checkout branch-name
 git checkout main
 git checkout -
+```
+
+### Set upstream branch
+
+When pushing up a new branch for the first time you will want to link the branch to an upstream branch (hosted on the remote server). Using the `-u` flag is shorthand for doing this. It configures the local branch to track the remote branch as its upstream. This allows future `git push` and `git pull` commands to work without specifying the remote and branch names. Your local branch will track changes to `origin/feature/branch`.
+
+```shell
+git checkout main # whichever your main branch is
+git checkout -b feature/branch
+# commits are made
+git push -u origin feature/branch
 ```
 
 ### Checkout a Tag
@@ -84,6 +96,3 @@ git rebase feature/parent --onto main
 ### Soft Undo Commits
 
 When you have accidentally committed changes to a branch you can undo them and restage the changes using `git reset HEAD^ --soft`. You can run this multiple times to continue undoing changes as needed. `git reset HEAD~` will also work.
-
-
-rebase commits to new branch
