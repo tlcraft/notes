@@ -1,5 +1,7 @@
 # Git
 
+This page lists notes on various `git` commands.
+
 ## Contents
 
 - [Change Branches](#change-branches)
@@ -23,7 +25,7 @@ git checkout -
 
 ### Set upstream branch
 
-When pushing up a new branch for the first time you will want to link the branch to an upstream branch (hosted on the remote server). Using the `-u` flag is shorthand for doing this. It configures the local branch to track the remote branch as its upstream. This allows future `git push` and `git pull` commands to work without specifying the remote and branch names. Your local branch will track changes to `origin/feature/branch`.
+When pushing up a new branch for the first time you will want to link the branch to an upstream branch. Using the `-u` flag is shorthand for doing this. It configures the local branch to track the remote branch as its upstream. This allows future `git push` and `git pull` commands to work without specifying the remote and branch names. Your local branch will track changes to `origin/feature/branch`.
 
 ```shell
 git checkout main # whichever your main branch is
