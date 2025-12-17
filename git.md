@@ -13,6 +13,7 @@ This page lists notes on various `git` commands.
 - [Rebase Onto](#rebase-onto)
 - [Rebase Commits to a Branch](#rebase-commits-to-a-branch)
 - [Soft Undo Commits](#soft-undo-commits)
+- [Prune Branches](#prune-branches)
 
 ### Change Branches
 
@@ -111,3 +112,7 @@ git rebase main
 ### Soft Undo Commits
 
 When you have accidentally committed changes to a branch you can undo them and restage the changes using `git reset HEAD^ --soft`. You can run this multiple times to continue undoing changes as needed. `git reset HEAD~` will also work.
+
+### Prune Branches
+
+To remove local remote-tracking branches that are no longer on the remote server run `git fetch --prune` (this won't delete the local branch itself). Separately, the `git prune` command will delete locally detached commits.
