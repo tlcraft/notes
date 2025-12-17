@@ -11,6 +11,7 @@ This page lists notes on various `git` commands.
 - [Get Remote URL](#get-remote-url)
 - [Precommit Hooks](#precommit-hooks)
 - [Rebase Onto](#rebase-onto)
+- [Rebase Commits to a Branch](#rebase-commits-to-a-branch)
 - [Soft Undo Commits](#soft-undo-commits)
 
 ### Change Branches
@@ -94,6 +95,18 @@ git rebase feature/parent --onto main
 
 - [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
 - [How to git rebase a branch with the onto command?](https://stackoverflow.com/questions/29914052/how-to-git-rebase-a-branch-with-the-onto-command)
+
+### Rebase Commits to a Branch
+
+As you work in a feature branch you'll want to periodically pull in changes from `main`. To preserve a clean history use `rebase` to pull in the latest changes and replay your local commits on top of them (placing them at the top of your history). Typically, you'll want to do this often, before you push your local branch to your remote server. Once you've pushed to your remote you'll want to merge changes in case others are working from your feature branch as well. Rebasing changes the commit history so it can cause issues when others use the remote branch. Coordinating with your team is important in those situations and you can force push a branch to rewrite the history of the remote when needed.
+
+```shell
+git checkout main
+git fetch origin
+git checkout feature/branch
+git rebase main
+# Then work through resolving conflicts and committing changes
+```
 
 ### Soft Undo Commits
 
