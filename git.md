@@ -116,3 +116,9 @@ When you have accidentally committed changes to a branch you can undo them and r
 ### Prune Branches
 
 To remove local remote-tracking branches that are no longer on the remote server run `git fetch --prune` (this won't delete the local branch itself). Separately, the `git prune` command will delete locally detached commits.
+
+### Stashing Changes
+
+You can stash uncommitted changes and later reapply them in case you need to work on something else before committing. You can stage newly created files and they will be stashed with your changes. Otherwise modified files will be stashed and newly created files won't be. Stash files using the `git stash` command. You can include a message if needed like so, `git stash push -m "work in progress on feature A"`.
+
+To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply will retain your stash in the stash list for later use whereas pop will remove the stash. You can target specific stashes with both commands using the `stash@{X}` option (where X is replaced with the stash number). Stashes are stored with the most recent on top (last-in, first-out).
