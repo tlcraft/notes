@@ -14,6 +14,7 @@ This page lists notes on various `git` commands.
 - [Rebase Commits to a Branch](#rebase-commits-to-a-branch)
 - [Soft Undo Commits](#soft-undo-commits)
 - [Prune Branches](#prune-branches)
+- [Stashing Changes](#stashing-changes)
 
 ### Change Branches
 
