@@ -12,6 +12,7 @@ This page lists notes on various `git` commands.
 - [Precommit Hooks](#precommit-hooks)
 - [Rebase Onto](#rebase-onto)
 - [Rebase Commits to a Branch](#rebase-commits-to-a-branch)
+- [Interactive Rebase](#interactive-rebase)
 - [Soft Undo Commits](#soft-undo-commits)
 - [Prune Branches](#prune-branches)
 - [Stashing Changes](#stashing-changes)
@@ -109,6 +110,19 @@ git checkout feature/branch
 git rebase main
 # Then work through resolving conflicts and committing changes
 ```
+
+### Interactive Rebase
+
+You can perform an interactive rebase when pulling in changes from `main`. This allows you review and alter commits. This can let you clean up the commit history by allowing you to edit, squash, reorder, or delete commits before they get merged in. Ultimately this can clean up the commit log and history.
+
+```shell
+git checkout main
+git pull
+git checkout feature/branch
+git rebase -i main
+```
+
+- [Beginner’s Guide to Interactive Rebasing](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d)
 
 ### Soft Undo Commits
 
