@@ -113,7 +113,7 @@ git rebase main
 
 ### Interactive Rebase
 
-You can perform an interactive rebase when pulling in changes from `main`. This allows you review and alter commits. This can let you clean up the commit history by allowing you to edit, squash, reorder, or delete commits before they get merged in. Ultimately this can clean up the commit log and history.
+You can perform an interactive rebase when pulling in changes from `main`. This allows you review and alter commits. This can let you clean up the commit history by allowing you to edit, squash, reorder, or delete commits before they get merged in. Ultimately this can clean up the commit log and history. Since the history will change it's best to only rebase on local branches before pushing to the remote (and then to start using `merge` to keep the history in place for others).
 
 ```shell
 git checkout main
@@ -121,6 +121,8 @@ git pull
 git checkout feature/branch
 git rebase -i main
 ```
+
+As you review and make changes you can commit them using `git commit --amend`.
 
 - [Beginner’s Guide to Interactive Rebasing](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d)
 
