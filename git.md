@@ -111,6 +111,9 @@ git rebase main
 # Then work through resolving conflicts and committing changes
 ```
 
+- [Learn Git Rebase in 6 minutes ](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+- [Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 ### Interactive Rebase
 
 You can perform an interactive rebase when pulling in changes from `main`. This allows you review and alter commits. This can let you clean up the commit history by allowing you to edit, squash, reorder, or delete commits before they get merged in. Ultimately this can clean up the commit log and history. Since the history will change it's best to only rebase on local branches before pushing to the remote (and then to start using `merge` to keep the history in place for others).
