@@ -128,6 +128,7 @@ git rebase -i main
 As you review and make changes you can commit them using `git commit --amend`. You can always exit a rebase with `git rebase --abort` if needed and start over or go another route.
 
 - [Beginner’s Guide to Interactive Rebasing](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d)
+- [Git Rebase --interactive: EXPLAINED](https://www.youtube.com/watch?v=H7RFt0Pxxp8)
 
 ### Soft Undo Commits
 
