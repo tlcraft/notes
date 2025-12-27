@@ -1,14 +1,21 @@
 # Git
 
+This page lists notes on various `git` commands.
+
 ## Contents
 
 - [Change Branches](#change-branches)
+- [Set upstream branch](#set-upstream-branch)
 - [Checkout a Tag](#checkout-a-tag)
 - [Empty Commits](#empty-commits)
 - [Get Remote URL](#get-remote-url)
 - [Precommit Hooks](#precommit-hooks)
 - [Rebase Onto](#rebase-onto)
+- [Rebase Commits to a Branch](#rebase-commits-to-a-branch)
+- [Interactive Rebase](#interactive-rebase)
 - [Soft Undo Commits](#soft-undo-commits)
+- [Prune Branches](#prune-branches)
+- [Stashing Changes](#stashing-changes)
 
 ### Change Branches
 
@@ -18,6 +25,17 @@ You can swap back to the last branch you were on by using a dash with `checkout`
 git checkout branch-name
 git checkout main
 git checkout -
+```
+
+### Set upstream branch
+
+When pushing up a new branch for the first time you will want to link the branch to an upstream branch. Using the `-u` flag is shorthand for doing this. It configures the local branch to track the remote branch as its upstream. This allows future `git push` and `git pull` commands to work without specifying the remote and branch names. Your local branch will track changes to `origin/feature/branch`.
+
+```shell
+git checkout main # whichever your main branch is
+git checkout -b feature/branch
+# commits are made
+git push -u origin feature/branch
 ```
 
 ### Checkout a Tag
@@ -81,9 +99,48 @@ git rebase feature/parent --onto main
 - [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
 - [How to git rebase a branch with the onto command?](https://stackoverflow.com/questions/29914052/how-to-git-rebase-a-branch-with-the-onto-command)
 
+### Rebase Commits to a Branch
+
+As you work in a feature branch you'll want to periodically pull in changes from `main`. To preserve a clean history use `rebase` to pull in the latest changes and replay your local commits on top of them (placing them at the top of your history). Typically, you'll want to do this often, before you push your local branch to your remote server. Once you've pushed to your remote you'll want to merge changes in case others are working from your feature branch as well. Rebasing changes the commit history so it can cause issues when others use the remote branch. Coordinating with your team is important in those situations and you can force push a branch to rewrite the history of the remote when needed.
+
+```shell
+git checkout main
+git fetch origin
+git checkout feature/branch
+git rebase main
+# Then work through resolving conflicts and committing changes
+```
+
+- [Learn Git Rebase in 6 minutes ](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+- [Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+### Interactive Rebase
+
+You can perform an interactive rebase when pulling in changes from `main`. This allows you review and alter commits. This can let you clean up the commit history by allowing you to edit, squash, reorder, or delete commits before they get merged in. Ultimately this can clean up the commit log and history. Since the history will change it's best to only rebase on local branches before pushing to the remote (and then to start using `merge` to keep the history in place for others).
+
+```shell
+git checkout main
+git pull
+git checkout feature/branch
+git rebase -i main
+```
+
+As you review and make changes you can commit them using `git commit --amend`. You can always exit a rebase with `git rebase --abort` if needed and start over or go another route.
+
+- [Beginner’s Guide to Interactive Rebasing](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d)
+- [Git Rebase --interactive: EXPLAINED](https://www.youtube.com/watch?v=H7RFt0Pxxp8)
+- [How to keep your Git history clean with interactive rebase](https://about.gitlab.com/blog/keep-git-history-clean-with-interactive-rebase/)
+
 ### Soft Undo Commits
 
 When you have accidentally committed changes to a branch you can undo them and restage the changes using `git reset HEAD^ --soft`. You can run this multiple times to continue undoing changes as needed. `git reset HEAD~` will also work.
 
+### Prune Branches
 
-rebase commits to new branch
+To remove local remote-tracking branches that are no longer on the remote server run `git fetch --prune` (this won't delete the local branch itself). Separately, the `git prune` command will delete locally detached commits.
+
+### Stashing Changes
+
+You can stash uncommitted changes and later reapply them in case you need to work on something else before committing. You can stage newly created files and they will be stashed with your changes. Otherwise modified files will be stashed and newly created files won't be. Stash files using the `git stash` command. You can include a message if needed like so, `git stash push -m "work in progress on feature A"`.
+
+To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply will retain your stash in the stash list for later use whereas pop will remove the stash. You can target specific stashes with both commands using the `stash@{X}` option (where X is replaced with the stash index). Stashes are stored with the most recent on top (last-in, first-out).
