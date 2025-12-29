@@ -67,7 +67,7 @@ Four rules of simple design:
 
 "Barry Boehm reported that information hiding was a powerful technique for eliminating rework, and he pointed out that it was particularly effective in incremental, high-change environments (Boehm 1987)." - [Code Complete 2 page 92](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
-"Traditional object-oriented design provides the heuristic power of modeling the world in objects, but object thinking wouldn't help you avoid declaring the ID as an *int* instead of an *IdType*... If, instead, the designer had asked, 'What about the ID should be hidden?' he might well have decided to hide its type behind a simple type declaration that substitutes *IdType* for *int*. [...] the difference is one of heuristics——thinking about information hiding inspires and promotes design decisions that thinking about objects does not." - [Code Complete 2 page 92](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+"Traditional object-oriented design provides the heuristic power of modeling the world in objects, but object thinking wouldn't help you avoid declaring the ID as an *int* instead of an *IdType*... If, instead, the designer had asked, 'What about the ID should be hidden?' he might well have decided to hide its type behind a simple type declaration that substitutes *IdType* for *int*. [...] the difference is one of heuristics——thinking about information hiding inspires and promotes design decisions that thinking about objects does not." - [Code Complete 2 page 96](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
 ### Miscellaneous
 
