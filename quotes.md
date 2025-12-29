@@ -65,6 +65,8 @@ Four rules of simple design:
 
 - [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
 
+"Barry Boehm reported that information hiding was a powerful technique for eliminating rework, and he pointed out that it was particularly effective in incremental, high-change environments (Boehm 1987)." - [Code Complete 2 page 92](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
