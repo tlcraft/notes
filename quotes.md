@@ -71,6 +71,8 @@ Four rules of simple design:
 
 "Traditional object-oriented design provides the heuristic power of modeling the world in objects, but object thinking wouldn't help you avoid declaring the ID as an *int* instead of an *IdType*... If, instead, the designer had asked, 'What about the ID should be hidden?' he might well have decided to hide its type behind a simple type declaration that substitutes *IdType* for *int*. [...] the difference is one of heuristics——thinking about information hiding inspires and promotes design decisions that thinking about objects does not." - [Code Complete 2 page 96](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"You don't have to solve the whole design problem at once. If you get stuck, remember that a point needs to be decided but recognize that you don't yet have enough information to resolve that specific issue... Some people are uncomfortable if they don't come to closure after a design cycle, but after you have created a few designs without resolving issues prematurely, it will seem natural to leave issues unresolved until you have more information (Zahniser 1992, Beck 2000)." - [Code Complete 2 page 110](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
