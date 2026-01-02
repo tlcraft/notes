@@ -73,6 +73,8 @@ Four rules of simple design:
 
 "You don't have to solve the whole design problem at once. If you get stuck, remember that a point needs to be decided but recognize that you don't yet have enough information to resolve that specific issue... Some people are uncomfortable if they don't come to closure after a design cycle, but after you have created a few designs without resolving issues prematurely, it will seem natural to leave issues unresolved until you have more information (Zahniser 1992, Beck 2000)." - [Code Complete 2 page 110](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"Design is a heuristic process, which means that no solution is guaranteed to work every time. Design contains elements of trial and error. Try a variety of approaches until you find one that works well." - [Code Complete 2 page 113](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
