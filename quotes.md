@@ -107,6 +107,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "It can take many life experiences to take one step down the path of enlightenment. It can take just one life experience to take you back to the start." - Unknown
 
+"In the middle of difficulty lies opportunity." - [Attributed Albert Einstein](https://quoteinvestigator.com/2021/10/07/difficulty/)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
