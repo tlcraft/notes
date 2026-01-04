@@ -65,6 +65,16 @@ Four rules of simple design:
 
 - [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
 
+"Barry Boehm reported that information hiding was a powerful technique for eliminating rework, and he pointed out that it was particularly effective in incremental, high-change environments (Boehm 1987)." - [Code Complete 2 page 92](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
+"The interface to a class should reveal as little as possible about its inner workings." - [Code Complete 2 page 93](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
+"Traditional object-oriented design provides the heuristic power of modeling the world in objects, but object thinking wouldn't help you avoid declaring the ID as an *int* instead of an *IdType*... If, instead, the designer had asked, 'What about the ID should be hidden?' he might well have decided to hide its type behind a simple type declaration that substitutes *IdType* for *int*. [...] the difference is one of heuristics——thinking about information hiding inspires and promotes design decisions that thinking about objects does not." - [Code Complete 2 page 96](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
+"You don't have to solve the whole design problem at once. If you get stuck, remember that a point needs to be decided but recognize that you don't yet have enough information to resolve that specific issue... Some people are uncomfortable if they don't come to closure after a design cycle, but after you have created a few designs without resolving issues prematurely, it will seem natural to leave issues unresolved until you have more information (Zahniser 1992, Beck 2000)." - [Code Complete 2 page 110](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
+"Design is a heuristic process, which means that no solution is guaranteed to work every time. Design contains elements of trial and error. Try a variety of approaches until you find one that works well." - [Code Complete 2 page 113](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
@@ -94,6 +104,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 "Computing is the only profession in which a single mind is obliged to span the distance from a bit to a few hundred megabytes, a ratio of 1 to 10^9, or nine orders of magnitude. 'Compared to that number of semantic levels, the average mathematical theory is almost flat. By evoking the need for deep conceptual hierarchies, the automatic computer confronts us with a radically new intellectual challenge that has no precedent in our history.'" - [Code Complete 2 page 78](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
 "Make the change easy, then make the easy change." - [Kent Beck](https://x.com/KentBeck/status/250733358307500032?s=20)
+
+"It can take many life experiences to take one step down the path of enlightenment. It can take just one life experience to take you back to the start." - Unknown
 
 ### Goals
 
