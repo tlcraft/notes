@@ -109,6 +109,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "In the middle of difficulty lies opportunity." - [Attributed Albert Einstein](https://quoteinvestigator.com/2021/10/07/difficulty/)
 
+"Turn crisis into opportunity. Never waste a crisis." - [Reid Hoffman](https://youtu.be/6H_AgyPO2qA?si=oH_gyOeMNEsugUc4&t=435)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
