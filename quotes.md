@@ -107,7 +107,7 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "It can take many life experiences to take one step down the path of enlightenment. It can take just one life experience to take you back to the start." - Unknown
 
-"In the middle of difficulty lies opportunity." - [Attributed Albert Einstein](https://quoteinvestigator.com/2021/10/07/difficulty/)
+"In the middle of difficulty lies opportunity." - [Attributed to Albert Einstein](https://quoteinvestigator.com/2021/10/07/difficulty/)
 
 "Turn crisis into opportunity. Never waste a crisis." - [Reid Hoffman](https://youtu.be/6H_AgyPO2qA?si=oH_gyOeMNEsugUc4&t=435)
 
