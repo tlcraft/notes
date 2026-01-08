@@ -147,9 +147,11 @@ To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply wi
 
 ### Branching Strategy
 
-Trunk-based, using short-lived feature branches.
+I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process).
 
-Use `main` and `develop` branches. Work is done against `develop` and then merged to `main` periodically for production releases. Hot fixes can be done against `main` as necessary and merged back to `develop`.
+I typically use `main` and `develop` branches. Work is done against `develop` and then merged to `main` periodically for production releases. Hot fixes can be done against `main` as necessary and merged back to `develop` (or even done in `develop` and cherry picked to `main` depending on the issue). Feature branches should be squash merged into `develop` and `develop` should be merged into `main` to keep the development and production histories intact.
+
+If the `main` and `develop` histories conflict preventing a merge, we need to create a branch from `main`, merge `develop` into that branch and resolve any conflicts and merge it into `main`. Then merge `main` back to `develop` to resync them.
 
 - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [Gitflow - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
