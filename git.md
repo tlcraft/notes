@@ -16,6 +16,7 @@ This page lists notes on various `git` commands.
 - [Soft Undo Commits](#soft-undo-commits)
 - [Prune Branches](#prune-branches)
 - [Stashing Changes](#stashing-changes)
+- [Branching Strategy](#branching-strategy)
 
 ### Change Branches
 
