@@ -16,6 +16,7 @@ This page lists notes on various `git` commands.
 - [Soft Undo Commits](#soft-undo-commits)
 - [Prune Branches](#prune-branches)
 - [Stashing Changes](#stashing-changes)
+- [Branching Strategy](#branching-strategy)
 
 ### Change Branches
 
@@ -144,3 +145,16 @@ To remove local remote-tracking branches that are no longer on the remote server
 You can stash uncommitted changes and later reapply them in case you need to work on something else before committing. You can stage newly created files and they will be stashed with your changes. Otherwise modified files will be stashed and newly created files won't be. Stash files using the `git stash` command. You can include a message if needed like so, `git stash push -m "work in progress on feature A"`.
 
 To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply will retain your stash in the stash list for later use whereas pop will remove the stash. You can target specific stashes with both commands using the `stash@{X}` option (where X is replaced with the stash index). Stashes are stored with the most recent on top (last-in, first-out).
+
+### Branching Strategy
+
+I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process).
+
+I typically use `main` and `develop` branches. Work is done against `develop` and then merged to `main` periodically for production releases. Hot fixes can be done against `main` as necessary and merged back to `develop` (or even done in `develop` and cherry picked to `main` depending on the issue). Feature branches should be squash merged into `develop` and `develop` should be merged into `main` to keep the development and production histories intact.
+
+If the `main` and `develop` histories conflict preventing a merge, we need to create a branch from `main`, merge `develop` into that branch and resolve any conflicts and merge it into `main`. Then merge `main` back to `develop` to resync them.
+
+- [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+- [Gitflow - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [The origins of Trunk-Based Development](https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development)
+- [Is GitHub Flow the same as Trunk-based development?](https://www.reddit.com/r/git/comments/1oft3lq/is_github_flow_the_same_as_trunkbased_development/)
