@@ -157,3 +157,4 @@ If the `main` and `develop` histories conflict preventing a merge, we need to cr
 - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [Gitflow - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [The origins of Trunk-Based Development](https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development)
+- [Is GitHub Flow the same as Trunk-based development?](https://www.reddit.com/r/git/comments/1oft3lq/is_github_flow_the_same_as_trunkbased_development/)
