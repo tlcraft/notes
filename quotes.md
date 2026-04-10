@@ -189,6 +189,8 @@ The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks,
 
 "The 1-3-5 rule acknowledges that in a typical day, you just don’t have time to do it all. What you do reasonably have time for is one major task, three medium-sized tasks, and five little ones." - [Make a Better To-Do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
 
+"What are you doing with your irreplaceable time? What is the smart choice?" - Ken McCaskill
+
 ### Continous Learning
 
 "To reread at least monthly:
