@@ -128,6 +128,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "Eyes open, no fear." - Brian Holmes
 
+"Pain is inevitable. Suffering is optional." - [Attributed to Karuki Murakami](https://www.goodreads.com/quotes/613585-pain-is-inevitable-suffering-is-optional-say-you-re-running-and)
+
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
 
 "When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before." - [Jacob Riis](https://www.poundingtherock.com/pages/the-quote)
