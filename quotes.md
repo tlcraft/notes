@@ -75,6 +75,8 @@ Four rules of simple design:
 
 "Design is a heuristic process, which means that no solution is guaranteed to work every time. Design contains elements of trial and error. Try a variety of approaches until you find one that works well." - [Code Complete 2 page 113](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"Pseudocode supports the idea of iterative refinement. You start with a high-level design, refine the design to pseudocode, and then refine the pseudocode to source code. This successive refinement in small steps allows you to check your design as you drive it to lower levels of detail. The result is that you catch high-level errors at the highest level, mid-level errors at the middle level, and low-level errors at the lowest level--before any of them becomes a problem or contaminates work at more detailed levels." - [Code Complete 2 page 219](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
@@ -128,6 +130,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "Eyes open, no fear." - Brian Holmes
 
+"Pain is inevitable. Suffering is optional." - [Attributed to Karuki Murakami](https://www.goodreads.com/quotes/613585-pain-is-inevitable-suffering-is-optional-say-you-re-running-and)
+
 "Dripping water hollows out stone, not through force but through persistence." - [Several People](https://wist.info/other/26191/)
 
 "When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before." - [Jacob Riis](https://www.poundingtherock.com/pages/the-quote)
@@ -143,6 +147,10 @@ What consistency really is, just showing up every day for at least a little bit.
 "Create a SMART goal to ensure your goal is realistic. Use the Goldilocks rule - not too hard, not too easy. Just right." - [Rally Coach](https://www.rallyhealth.com/rally-coach)
 
 "Now, physically, if I can't do it, then I can't do it. But physically, if I can do it and I just don't feel like doing it, that's a whole different lens." - [Michael Jordan](https://x.com/NBAonNBC/status/1983364626726138150?s=20)
+
+"The biggest challenge for high achievers is turning knowledge into action. It’s usually not about skill, but about feeling allowed, clear on next steps, and having good conversations." [Codie A. Sanchez](https://www.linkedin.com/feed/update/urn:li:activity:7448702897804050432?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7448702897804050432%2C7448805424423682050%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287448805424423682050%2Curn%3Ali%3Aactivity%3A7448702897804050432%29)
+
+"Discipline over motivation." - Rob McCaskill
 
 ### Empathy
 
@@ -188,6 +196,8 @@ The Pickle Jar Theory is one way to organize tasks. Imagine your tasks as rocks,
 - [Prioritize Your To-Do List By Imagining Rocks in a Jar](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 
 "The 1-3-5 rule acknowledges that in a typical day, you just don’t have time to do it all. What you do reasonably have time for is one major task, three medium-sized tasks, and five little ones." - [Make a Better To-Do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
+
+"What are you doing with your irreplaceable time? What is the smart choice?" - Ken McCaskill
 
 ### Continous Learning
 
