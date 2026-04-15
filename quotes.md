@@ -150,6 +150,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "The biggest challenge for high achievers is turning knowledge into action. It’s usually not about skill, but about feeling allowed, clear on next steps, and having good conversations." [Codie A. Sanchez](https://www.linkedin.com/feed/update/urn:li:activity:7448702897804050432?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7448702897804050432%2C7448805424423682050%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287448805424423682050%2Curn%3Ali%3Aactivity%3A7448702897804050432%29)
 
+"Discipline over motivation." - Rob McCaskill
+
 ### Empathy
 
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
