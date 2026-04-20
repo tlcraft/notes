@@ -7,6 +7,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [CSS and Design](#css-and-design)
 - [Architecture Design and Whiteboard Tools](#architecture-design-and-whiteboard-tools)
 - [Software and Architecture Design](#software-and-architecture-design)
+- [News and Artciles](#news-and-artcles)
 
 ## CSS and Design
 
@@ -23,3 +24,10 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Microservice Architecture](https://microservices.io/)
 - [Refactoring Guru](https://refactoring.guru/)
 - [Source Making](https://sourcemaking.com/)
+
+## News and Artcles
+
+- [InfoQ](https://www.infoq.com/)
+- [DevIQ](https://deviq.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Slackdot](https://slashdot.org/)
