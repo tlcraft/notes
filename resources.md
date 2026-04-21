@@ -8,11 +8,13 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Architecture Design and Whiteboard Tools](#architecture-design-and-whiteboard-tools)
 - [Software and Architecture Design](#software-and-architecture-design)
 - [News and Artciles](#news-and-artcles)
+- [Developer Blogs and Articles](#developer-blogs-and-articles)
 
 ## CSS and Design
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [18F Guides](https://guides.18f.org/)
+- [Can I Use](https://caniuse.com/)
 
 ## Architecture Design and Whiteboard Tools
 
@@ -31,3 +33,12 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [DevIQ](https://deviq.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Slackdot](https://slashdot.org/)
+- [Dev Community](https://dev.to/)
+
+## Developer Blogs and Articles
+
+- [AWS](https://aws.amazon.com/blogs/)
+- [Netflix Research](https://research.netflix.com/)
+- [Netflix TechBlog](https://netflixtechblog.com/)
+- [Microsoft](https://devblogs.microsoft.com/)
+- [Airbnb](https://airbnb.tech/)
