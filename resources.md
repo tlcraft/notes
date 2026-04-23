@@ -10,6 +10,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [News and Artciles](#news-and-artcles)
 - [Developer Blogs and Articles](#developer-blogs-and-articles)
 - [Miscellaneous](#miscellaneous)
+- [Security](#security)
 
 ## CSS and Design
 
@@ -44,8 +45,13 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Microsoft](https://devblogs.microsoft.com/)
 - [Airbnb](https://airbnb.tech/)
 
-# Miscellaneous
+## Miscellaneous
 
 - [DNS Checker](https://dnschecker.org/)
 - [Epoch Converter](https://www.epochconverter.com/)
 - [Wayback Machine - Internet Archive](https://web.archive.org/)
+
+## Security
+
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
