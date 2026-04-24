@@ -11,6 +11,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Developer Blogs and Articles](#developer-blogs-and-articles)
 - [Miscellaneous](#miscellaneous)
 - [Security](#security)
+- [Global Developer Events](#global-developer-events)
 
 ## CSS and Design
 
@@ -55,3 +56,8 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box](https://www.hackthebox.com/)
+
+## Global Developer Events
+
+- [Gloabl Day of Coderetreat](https://www.coderetreat.org/)
+- [Hacktoberfest](https://hacktoberfest.com/)
