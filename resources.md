@@ -10,6 +10,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [News and Artciles](#news-and-artcles)
 - [Developer Blogs and Articles](#developer-blogs-and-articles)
 - [Miscellaneous](#miscellaneous)
+- [Online Editors and IDEs](#online-editors-and-ides)
 - [Security](#security)
 - [Global Developer Events](#global-developer-events)
 
@@ -51,6 +52,12 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [DNS Checker](https://dnschecker.org/)
 - [Epoch Converter](https://www.epochconverter.com/)
 - [Wayback Machine - Internet Archive](https://web.archive.org/)
+
+## Online Editors and IDEs
+
+- [Coderpad](https://app.coderpad.io/sandbox)
+- [Codepen](https://codepen.io/)
+- [TypeScript Playground](https://www.typescriptlang.org/play/)
 
 ## Security
 
