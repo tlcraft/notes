@@ -52,6 +52,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [DNS Checker](https://dnschecker.org/)
 - [Epoch Converter](https://www.epochconverter.com/)
 - [Wayback Machine - Internet Archive](https://web.archive.org/)
+- [Miraclesalad.com](https://www.miraclesalad.com/webtools/)
 
 ## Online Editors and IDEs
 
