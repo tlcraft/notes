@@ -13,6 +13,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Online Editors and IDEs](#online-editors-and-ides)
 - [Security](#security)
 - [Global Developer Events](#global-developer-events)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 
 ## CSS and Design
 
@@ -69,3 +70,9 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 
 - [Gloabl Day of Coderetreat](https://www.coderetreat.org/)
 - [Hacktoberfest](https://hacktoberfest.com/)
+
+## Data Structures and Algorithms
+
+- [visualgo.net](https://visualgo.net/en)
+- [usfca.edu - Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
