@@ -14,6 +14,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Security](#security)
 - [Global Developer Events](#global-developer-events)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [YAML Resources](#yaml-resources)
 
 ## CSS and Design
 
@@ -76,3 +77,8 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [visualgo.net](https://visualgo.net/en)
 - [usfca.edu - Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
+
+## YAML Resources
+
+- [yaml.org](https://yaml.org/)
+- [Online YAML Parser](https://yaml-online-parser.appspot.com/)
