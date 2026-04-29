@@ -56,7 +56,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Wayback Machine - Internet Archive](https://web.archive.org/)
 - [Miraclesalad.com](https://www.miraclesalad.com/webtools/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
-- [Baires Dev Tools](https://www.bairesdev.com/tools/)
+- [BairesDev Tools](https://www.bairesdev.com/tools/)
 
 ## Online Editors and IDEs
 
