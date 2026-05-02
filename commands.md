@@ -14,6 +14,7 @@ Notes on various CLI commands.
 - [ls](#ls)
 - [Multiline Commands](#multiline-commands)
 - [ping](#ping)
+- [rm](#rm)
 - [sed](#sed)
 - [tree](#tree)
 
@@ -93,6 +94,14 @@ testing, 123"
 The `ping` command tests if a device on a network is reachable.
 
 - [Ping command basics for testing and troubleshooting](https://www.redhat.com/en/blog/ping-usage-basics)
+
+### rm
+
+The remove command will remove files and folders from your hard drive. You can use the `-f` flag to force items to be removed and to suppress confirmation messages. The `-r` flag will recursively delete items in order to delete directories.
+
+Here's an example: `rm -rf directory_name`
+
+- [rm man page](https://linuxcommand.org/lc3_man_pages/rm1.html)
 
 ### sed
 
