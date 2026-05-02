@@ -17,6 +17,7 @@ Notes on various CLI commands.
 - [rm](#rm)
 - [sed](#sed)
 - [tree](#tree)
+- [uname](#uname)
 
 ### cd
 
@@ -120,3 +121,15 @@ sed 's/hello/world/' input.txt > output.txt
 The `tree` command prints the directory structure from the folder where you run the command.
 
 - [tree (command)](https://en.wikipedia.org/wiki/Tree_(command))
+
+### uname
+
+`uname` can be used to list system information. Such as the kernel name or machine hardware name.
+
+Here are two examples, one that prints all system information and one that prints the machine name:
+```shell
+uname -a
+uname -m
+```
+
+- [uname](https://man7.org/linux/man-pages/man1/uname.1.html)
