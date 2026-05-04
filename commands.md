@@ -12,6 +12,7 @@ Notes on various CLI commands.
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
 - [ls](#ls)
+- [mkdir](#mkdir)
 - [Multiline Commands](#multiline-commands)
 - [ping](#ping)
 - [rm](#rm)
@@ -79,6 +80,27 @@ From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/
 The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`). The `-l` flag will display additional information about the files (such as ownership and last modified date).
  
 - [ls](https://en.wikipedia.org/wiki/Ls)
+
+### mkdir
+
+The `mkdir` command will create folders and directories. If you use the `-p` flag any parent directories that don't exist will be created. Using that flag and brace expansion you can create complex directory structures. For example:
+
+```bash
+mkdir -p dir/{module/{ses, s3}, functions/email}
+```
+
+Would create the following structure:
+
+```
+dir/
+├── module/
+│   ├── ses/
+│   └── s3/
+└── functions/
+    └── email/
+```
+
+- [Brace Expansion](https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html)
 
 ### Multiline Commands
 
