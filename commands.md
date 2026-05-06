@@ -14,6 +14,7 @@ Notes on various CLI commands.
 - [ls](#ls)
 - [mkdir](#mkdir)
 - [Multiline Commands](#multiline-commands)
+- [nl](#nl)
 - [ping](#ping)
 - [rm](#rm)
 - [sed](#sed)
@@ -112,6 +113,16 @@ echo "This spans \
 multiple lines \
 testing, 123"
 ```
+
+### nl
+
+The `nl` command numbers lines of a file. It will print out the line number along with the line itself. Some options include using a pattern matcher and including blank lines.
+
+```shell
+nl commands.md
+```
+
+- [nl (Unix)](https://en.wikipedia.org/wiki/Nl_(Unix))
 
 ### ping
 
