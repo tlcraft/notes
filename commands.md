@@ -8,6 +8,7 @@ Notes on various CLI commands.
 - [cat](#cat)
 - [df](#df)
 - [dig](#dig)
+- [find](#find)
 - [grep](#grep)
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
@@ -56,6 +57,16 @@ The `+x` flag will run a reverse DNS lookup. Like `dig +noall +answer -x 8.8.8.8
 - [dig command](https://www.ibm.com/docs/en/aix/7.3?topic=d-dig-command)
 - [Linux and Unix dig Command Examples](https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/)
 - [dig Command in Linux with Examples](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
+
+### find
+
+The `find` command searches for files or directories based on a set of criteria. The following command will search for all files within the given directory.
+
+```shell
+find /path -type f
+```
+
+- [Find Command in Linux](https://www.geeksforgeeks.org/linux-unix/find-command-in-linux-with-examples/)
 
 ### grep
 
