@@ -78,7 +78,7 @@ find /path -type f
 
 ### head
 
-The `head` command can be used to print out a number of lines from a file. By default it prints the first 10 lines.
+The `head` command can be used to print out a number of lines from a file. By default it prints the first 10 lines. You can also print data based on bytes.
 
 - [Head Command in Linux With Examples](https://www.geeksforgeeks.org/linux-unix/head-command-linux-examples/)
 
