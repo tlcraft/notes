@@ -10,6 +10,7 @@ Notes on various CLI commands.
 - [dig](#dig)
 - [find](#find)
 - [grep](#grep)
+- [head](#head)
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
 - [ls](#ls)
@@ -74,6 +75,12 @@ find /path -type f
 
 - [grep](https://www.gnu.org/software/grep/manual/grep.html)
 - [Finding text strings within files (grep command)](https://www.ibm.com/docs/en/aix/7.3?topic=files-finding-text-strings-within-grep-command)
+
+### head
+
+The `head` command can be used to print out a number of lines from a file. By default it prints the first 10 lines.
+
+- [Head Command in Linux With Examples](https://www.geeksforgeeks.org/linux-unix/head-command-linux-examples/)
 
 ### ifconfig
 
