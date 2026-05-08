@@ -17,6 +17,7 @@ Notes on various CLI commands.
 - [mkdir](#mkdir)
 - [Multiline Commands](#multiline-commands)
 - [nl](#nl)
+- [Output Notes](#output-notes)
 - [ping](#ping)
 - [rm](#rm)
 - [sed](#sed)
@@ -141,6 +142,10 @@ nl commands.md
 ```
 
 - [nl (Unix)](https://en.wikipedia.org/wiki/Nl_(Unix))
+
+### Output Notes
+
+In Linux/Unix command-line shell scripting, 2>&1 is an idiom used to redirect standard error (stderr) to standard output (stdout). It allows you to combine error messages and normal output into a single stream, which can then be displayed together or saved to a file.
 
 ### ping
 
