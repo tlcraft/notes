@@ -4,6 +4,7 @@ Notes on various CLI commands.
 
 ## Contents
 
+- [awk](#awk)
 - [cd](#cd)
 - [cat](#cat)
 - [df](#df)
@@ -25,6 +26,18 @@ Notes on various CLI commands.
 - [tree](#tree)
 - [The Zen of Python](#the-zen-of-python)
 - [uname](#uname)
+
+### awk
+
+The `awk` command can be used for pattern matching and text processing. 
+
+The following example prints each line with the characters `###` located within it from this file. It also incldues the line number for each one.
+
+```shell
+awk '/###/ {print NR,$0}' commands.md
+```
+
+- [AWK command in Linux](https://www.geeksforgeeks.org/linux-unix/awk-command-unixlinux-examples/)
 
 ### cd
 
