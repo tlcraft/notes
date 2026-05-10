@@ -13,6 +13,7 @@ Notes on various CLI commands.
 - [head](#head)
 - [ifconfig](#ifconfig)
 - [ipconfig](#ipconfig)
+- [jq](#jq)
 - [ls](#ls)
 - [mkdir](#mkdir)
 - [Multiline Commands](#multiline-commands)
@@ -94,6 +95,12 @@ The `head` command can be used to print out a number of lines from a file. By de
 From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, `ipconfig` displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters."
 
 - [ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
+
+### jq
+
+`jq` is a cli utility like `sed` for `JSON`. "You can use it to slice and filter and map and transform structured data."
+
+- [jqlang.org](https://jqlang.org/)
 
 ### ls
 
