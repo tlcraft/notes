@@ -31,11 +31,27 @@ Notes on various CLI commands.
 
 The `awk` command can be used for pattern matching and text processing. 
 
-The following example prints each line with the characters `###` located within it from this file. It also incldues the line number for each one.
+The following example prints each line that includes the characters `###` in this file. It also incldues the line number for each one.
 
 ```shell
 awk '/###/ {print NR,$0}' commands.md
 ```
+
+You can set a field separator and then reference the fields using the pattern `$1`, `$2`, `$3` and so on. `$0` represent the entire line and `$NF` represents the last field.
+
+This script sets the field separator to a space and prints the first and last fields of each line along with the line number.
+
+```shell
+awk -F' ' '{print NR, $1, $NF}' commands.md
+```
+
+This script prints out the length of the longest line of this file.
+
+```shell
+awk '{ if (length($0) > max) max = length($0) } END { print max }' commands.md
+```
+
+You can also create `.awk` files with saved patterns and actions and reference them with the `-f` flag. 
 
 - [AWK command in Linux](https://www.geeksforgeeks.org/linux-unix/awk-command-unixlinux-examples/)
 
