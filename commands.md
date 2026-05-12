@@ -29,7 +29,7 @@ Notes on various CLI commands.
 
 ### awk
 
-The `awk` command can be used for pattern matching and text processing. 
+The `awk` command can be used for pattern matching and text processing. It's named after the creators (Alfred **A**ho, Peter **W**einberger, and Brian **K**ernighan).
 
 The following example prints each line that includes the characters `###` in this file. It also incldues the line number for each one.
 
@@ -45,15 +45,16 @@ This script sets the field separator to a space and prints the first and last fi
 awk -F' ' '{print NR, $1, $NF}' commands.md
 ```
 
-This script prints out the length of the longest line of this file.
+This script prints out the length of the longest line of this file (as well as the line itself).
 
 ```shell
-awk '{ if (length($0) > max) max = length($0) } END { print max }' commands.md
+awk '{ if (length($0) > max) max = length($0); line = $0 } END { print max, line }' commands.md
 ```
 
 You can also create `.awk` files with saved patterns and actions and reference them with the `-f` flag. 
 
 - [AWK command in Linux](https://www.geeksforgeeks.org/linux-unix/awk-command-unixlinux-examples/)
+- [AWK](https://en.wikipedia.org/wiki/AWK)
 
 ### cd
 
