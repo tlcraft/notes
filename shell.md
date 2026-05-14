@@ -20,7 +20,23 @@ The rc file gets run when a terminal starts up and makes available any commands 
 
 Aliases are typically for commands which don't have arguments, but they don't have to be. Consider adding aliases for common tasks to simplify them. The spacing in files is syntactically important so keep that in mind. Commands can include operators like `-z` which checks if the length of a string is zero and `-gt` which is the greater than comparison operator. These can be used in what are known as test commands.
 
-Resources
+### Multiline Commands
+
+Terminals can be configured to handle multiline commands. Typically adding a backslash at the end of a line will allow the terminal to process these. In some cases you may need to use a caret, backtick or pipe.
+
+Simple `echo` example:
+```shell
+echo "This spans \
+multiple lines \
+testing, 123"
+```
+
+### Output Notes
+
+In Linux/Unix command-line shell scripting, 2>&1 is an idiom used to redirect standard error (stderr) to standard output (stdout). It allows you to combine error messages and normal output into a single stream, which can then be displayed together or saved to a file.
+
+
+## Resources
  
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - [RC Config files](https://medium.com/@aadishazzam/rc-files-403a2b7c80a9)
