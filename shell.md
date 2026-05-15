@@ -35,6 +35,28 @@ testing, 123"
 
 In Linux/Unix command-line shell scripting, 2>&1 is an idiom used to redirect standard error (stderr) to standard output (stdout). It allows you to combine error messages and normal output into a single stream, which can then be displayed together or saved to a file.
 
+### vi
+
+`vi` is a powerful text editor you can use from the terminal. You can perform commands on a file or edit a file's contents. Here are some helpful commands.
+
+- `vi` - opens a file
+- `i` - starts insert mode
+- `esc` - exits insert mode
+- `:wq` - saves your changes while in insert mode and exits `vi`
+
+Here are some examples of the commands which would create a new file named `vi.test`, open it, start insert mode, enter the text "Hello world", exit insert mode and then save the changes and exit `vi`. Finally it prints the contents of your new file using `cat` to confirm the changes were made:
+
+```shell
+touch vi.test # create a file named vi.test
+vi vi.test # open the vi.test file with vi
+i # enter insert mode
+Hello world # type the text Hello world
+esc # exit insert mode
+:wq # save the changes and quit vi
+cat vi.test # print the contents of vi.test to confirm the changes
+```
+
+- [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
 ## Resources
  
