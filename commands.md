@@ -21,8 +21,8 @@ Notes on various CLI commands.
 - [ping](#ping)
 - [rm](#rm)
 - [sed](#sed)
+- [touch](#touch)
 - [tree](#tree)
-- [The Zen of Python](#the-zen-of-python)
 - [uname](#uname)
 
 ### awk
@@ -193,17 +193,17 @@ sed 's/hello/world/' input.txt > output.txt
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
 
+### touch
+
+The `touch` command can create files for you. Such as `touch filename`.
+
+- [Creating an Empty File in Linux](https://www.geeksforgeeks.org/linux-unix/touch-command-in-linux-with-examples/)
+
 ### tree
 
 The `tree` command prints the directory structure from the folder where you run the command.
 
 - [tree (command)](https://en.wikipedia.org/wiki/Tree_(command))
-
-### The Zen of Python
-
-If you run `python3 -m this` with Python 3 installed you'll get a listing of the Zen of Python by Tim Peters. These are 19 guiding princples of Python. Python code that aligns with these principles is often referred to as "Pythonic".
-
-- [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 
 ### uname
 
