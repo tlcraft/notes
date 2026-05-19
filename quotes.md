@@ -77,6 +77,30 @@ Four rules of simple design:
 
 "Pseudocode supports the idea of iterative refinement. You start with a high-level design, refine the design to pseudocode, and then refine the pseudocode to source code. This successive refinement in small steps allows you to check your design as you drive it to lower levels of detail. The result is that you catch high-level errors at the highest level, mid-level errors at the middle level, and low-level errors at the lowest level--before any of them becomes a problem or contaminates work at more detailed levels." - [Code Complete 2 page 219](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!"
+
+- [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)

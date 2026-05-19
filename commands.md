@@ -17,14 +17,12 @@ Notes on various CLI commands.
 - [jq](#jq)
 - [ls](#ls)
 - [mkdir](#mkdir)
-- [Multiline Commands](#multiline-commands)
 - [nl](#nl)
-- [Output Notes](#output-notes)
 - [ping](#ping)
 - [rm](#rm)
 - [sed](#sed)
+- [touch](#touch)
 - [tree](#tree)
-- [The Zen of Python](#the-zen-of-python)
 - [uname](#uname)
 
 ### awk
@@ -159,17 +157,6 @@ dir/
 
 - [Brace Expansion](https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html)
 
-### Multiline Commands
-
-Terminals can be configured to handle multiline commands. Typically adding a backslash at the end of a line will allow the terminal to process these. In some cases you may need to use a caret, backtick or pipe.
-
-Simple `echo` example:
-```shell
-echo "This spans \
-multiple lines \
-testing, 123"
-```
-
 ### nl
 
 The `nl` command numbers lines of a file. It will print out the line number along with the line itself. Some options include using a pattern matcher and including blank lines.
@@ -179,10 +166,6 @@ nl commands.md
 ```
 
 - [nl (Unix)](https://en.wikipedia.org/wiki/Nl_(Unix))
-
-### Output Notes
-
-In Linux/Unix command-line shell scripting, 2>&1 is an idiom used to redirect standard error (stderr) to standard output (stdout). It allows you to combine error messages and normal output into a single stream, which can then be displayed together or saved to a file.
 
 ### ping
 
@@ -210,17 +193,17 @@ sed 's/hello/world/' input.txt > output.txt
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
 
+### touch
+
+The `touch` command can create files for you. Such as `touch filename`.
+
+- [Creating an Empty File in Linux](https://www.geeksforgeeks.org/linux-unix/touch-command-in-linux-with-examples/)
+
 ### tree
 
 The `tree` command prints the directory structure from the folder where you run the command.
 
 - [tree (command)](https://en.wikipedia.org/wiki/Tree_(command))
-
-### The Zen of Python
-
-If you run `python3 -m this` with Python 3 installed you'll get a listing of the Zen of Python by Tim Peters. These are 19 guiding princples of Python. Python code that aligns with these principles is often referred to as "Pythonic".
-
-- [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 
 ### uname
 
