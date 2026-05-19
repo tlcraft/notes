@@ -30,7 +30,7 @@ Context and experience matter a lot when making decisions. - [Relevant Article](
 
 ![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
 
-"At some point, the learning stops and the pain begins." - Attributed to S. Rao Kosaraju, Johns Hopkins University
+"At some point, the learning stops and the pain begins." - [Attributed to S. Rao Kosaraju, Johns Hopkins University](https://en.wikipedia.org/wiki/S._Rao_Kosaraju)
 
 ### Design
 
