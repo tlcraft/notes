@@ -101,6 +101,8 @@ Namespaces are one honking great idea -- let's do more of those!"
 
 - [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 
+"When you find yourself 'figuring out' a section of code, consider renaming the variables. It's OK to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it." - [Code Complete 2 page 267](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
