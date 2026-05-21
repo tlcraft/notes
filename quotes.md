@@ -178,6 +178,8 @@ What consistency really is, just showing up every day for at least a little bit.
 
 "Discipline over motivation." - Rob McCaskill
 
+"When you win, you're never as good as you think you are, and when you lose, you're never as bad." - [Gregg Popovich](https://x.com/NBA/status/2052260512268710384?s=20)
+
 ### Empathy
 
 "Thinking code looks ridiculous is the best sign I'm misunderstanding something fundamental about the pressures that produced it." - [Sarah Mei](https://x.com/sarahmei/status/595442223170256896)
