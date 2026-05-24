@@ -30,7 +30,7 @@ Context and experience matter a lot when making decisions. - [Relevant Article](
 
 ![Graph displaying how much knowledge someone thinks they know versus how much they actualy know as they learn more.](images/simon_wardley_knowledge_graph.jpg)
 
-"At some point, the learning stops and the pain begins." - Attributed to S. Rao Kosaraju, Johns Hopkins University
+"At some point, the learning stops and the pain begins." - [Attributed to S. Rao Kosaraju, Johns Hopkins University](https://en.wikipedia.org/wiki/S._Rao_Kosaraju)
 
 ### Design
 
@@ -100,6 +100,8 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!"
 
 - [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
+
+"When you find yourself 'figuring out' a section of code, consider renaming the variables. It's OK to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it." - [Code Complete 2 page 267](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
 ### Miscellaneous
 
@@ -175,6 +177,10 @@ What consistency really is, just showing up every day for at least a little bit.
 "The biggest challenge for high achievers is turning knowledge into action. It’s usually not about skill, but about feeling allowed, clear on next steps, and having good conversations." [Codie A. Sanchez](https://www.linkedin.com/feed/update/urn:li:activity:7448702897804050432?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7448702897804050432%2C7448805424423682050%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287448805424423682050%2Curn%3Ali%3Aactivity%3A7448702897804050432%29)
 
 "Discipline over motivation." - Rob McCaskill
+
+"When you win, you're never as good as you think you are, and when you lose, you're never as bad." - [Gregg Popovich](https://x.com/NBA/status/2052260512268710384?s=20)
+
+"There is only one way to eat an elephant: one bite at a time." - [Desmond Tutu](https://www.psychologytoday.com/us/blog/mindfully-present-fully-alive/201804/the-only-way-to-eat-an-elephant)
 
 ### Empathy
 
