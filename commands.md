@@ -216,3 +216,7 @@ uname -m
 ```
 
 - [uname](https://man7.org/linux/man-pages/man1/uname.1.html)
+
+### which
+
+The `which` command locates the executable file that runs when you type a command in your terminal. For example, `which aws` or `which code` will print the file path to the executable that runs those commands.
