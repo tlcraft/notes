@@ -24,6 +24,7 @@ Notes on various CLI commands.
 - [touch](#touch)
 - [tree](#tree)
 - [uname](#uname)
+- [which](#which)
 
 ### awk
 
@@ -220,3 +221,5 @@ uname -m
 ### which
 
 The `which` command locates the executable file that runs when you type a command in your terminal. For example, `which aws` or `which code` will print the file path to the executable that runs those commands.
+
+- [which (command)](https://en.wikipedia.org/wiki/Which_(command))
