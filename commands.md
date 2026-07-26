@@ -134,7 +134,13 @@ From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/
 ### ls
 
 The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`). The `-l` flag will display additional information about the files (such as ownership and last modified date).
- 
+
+You can combine commands, such as the `which` command to get information about executables. Below the command lists information about the aws executable and its file permissions. Sorting the output by modification time (`t`), in reverse order (`r`) and including hidden files (`a`) and then printing the results in the long format (`l`). These extra options aren't necessary for a single file but are common habits for directory listings.
+
+```shell
+ls -ltra $(which aws)
+```
+
 - [ls](https://en.wikipedia.org/wiki/Ls)
 
 ### mkdir
