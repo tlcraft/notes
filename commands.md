@@ -65,7 +65,7 @@ The `cat` command can print the contents of a file to standard output. It can do
 
 This example will print the contents of `filename` to the terminal.
 
-```bash
+```shell
 cat filename
 ```
 
@@ -147,7 +147,7 @@ ls -ltra $(which aws)
 
 The `mkdir` command will create folders and directories. If you use the `-p` flag any parent directories that don't exist will be created. Using that flag and brace expansion you can create complex directory structures. For example:
 
-```bash
+```shell
 mkdir -p dir/{module/{ses, s3}, functions/email}
 ```
 
