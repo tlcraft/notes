@@ -180,6 +180,16 @@ The `ping` command tests if a device on a network is reachable.
 
 - [Ping command basics for testing and troubleshooting](https://www.redhat.com/en/blog/ping-usage-basics)
 
+### realpath
+
+The `realpath` command prints the resolved, absolute pathname of a file or directory. It automatically expands all symbolic links and clears out relative path elements like . (current directory) and .. (parent directory). It can be useful to use the `cd` command with it in order to change to a given directory.
+
+```shell
+cd $(realpath name)
+```
+
+- [Linux realpath](https://dustinpfister.github.io/2022/03/18/linux-realpath/)
+
 ### rm
 
 The remove command will remove files and folders from your hard drive. You can use the `-f` flag to force items to be removed and to suppress confirmation messages. The `-r` flag will recursively delete items in order to delete directories.
