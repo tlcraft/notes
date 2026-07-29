@@ -19,6 +19,7 @@ Notes on various CLI commands.
 - [mkdir](#mkdir)
 - [nl](#nl)
 - [ping](#ping)
+- [realpath](#realpath)
 - [rm](#rm)
 - [sed](#sed)
 - [touch](#touch)
