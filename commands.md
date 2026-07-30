@@ -211,6 +211,14 @@ sed 's/hello/world/' input.txt > output.txt
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
 
+### test
+
+You can check for files using the `test` command. For example, the following command will print a message describing if a file exists or not. Replace `file/path` with your test case.
+
+```shell
+test -e file/path && echo exist || echo not exist
+```
+
 ### touch
 
 The `touch` command can create files for you. Such as `touch filename`.
