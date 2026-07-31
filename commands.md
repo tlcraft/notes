@@ -22,6 +22,7 @@ Notes on various CLI commands.
 - [realpath](#realpath)
 - [rm](#rm)
 - [sed](#sed)
+- [test](#test)
 - [touch](#touch)
 - [tree](#tree)
 - [uname](#uname)
@@ -218,6 +219,8 @@ You can check for files using the `test` command. For example, the following com
 ```shell
 test -e file/path && echo exist || echo not exist
 ```
+
+- [test — Linux manual page](https://www.man7.org/linux/man-pages/man1/test.1.html)
 
 ### touch
 
