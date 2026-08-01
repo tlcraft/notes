@@ -19,11 +19,14 @@ Notes on various CLI commands.
 - [mkdir](#mkdir)
 - [nl](#nl)
 - [ping](#ping)
+- [realpath](#realpath)
 - [rm](#rm)
 - [sed](#sed)
+- [test](#test)
 - [touch](#touch)
 - [tree](#tree)
 - [uname](#uname)
+- [which](#which)
 
 ### awk
 
@@ -64,7 +67,7 @@ The `cat` command can print the contents of a file to standard output. It can do
 
 This example will print the contents of `filename` to the terminal.
 
-```bash
+```shell
 cat filename
 ```
 
@@ -133,14 +136,20 @@ From Microsoft's documentation, `ipconfig` in Windows "displays all current TCP/
 ### ls
 
 The `ls` command lists the contents of a directory. Using the `-a` flag will include hidden files (like `ls -a`). The `-l` flag will display additional information about the files (such as ownership and last modified date).
- 
+
+You can combine commands, such as the `which` command to get information about executables. Below the command lists information about the aws executable and its file permissions. Sorting the output by modification time (`t`), in reverse order (`r`) and including hidden files (`a`) and then printing the results in the long format (`l`). These extra options aren't necessary for a single file but are common habits for directory listings.
+
+```shell
+ls -ltra $(which aws)
+```
+
 - [ls](https://en.wikipedia.org/wiki/Ls)
 
 ### mkdir
 
 The `mkdir` command will create folders and directories. If you use the `-p` flag any parent directories that don't exist will be created. Using that flag and brace expansion you can create complex directory structures. For example:
 
-```bash
+```shell
 mkdir -p dir/{module/{ses, s3}, functions/email}
 ```
 
@@ -173,6 +182,16 @@ The `ping` command tests if a device on a network is reachable.
 
 - [Ping command basics for testing and troubleshooting](https://www.redhat.com/en/blog/ping-usage-basics)
 
+### realpath
+
+The `realpath` command prints the resolved, absolute pathname of a file or directory. It automatically expands all symbolic links and clears out relative path elements like . (current directory) and .. (parent directory). It can be useful to use the `cd` command with it in order to change to a given directory.
+
+```shell
+cd $(realpath name)
+```
+
+- [Linux realpath](https://dustinpfister.github.io/2022/03/18/linux-realpath/)
+
 ### rm
 
 The remove command will remove files and folders from your hard drive. You can use the `-f` flag to force items to be removed and to suppress confirmation messages. The `-r` flag will recursively delete items in order to delete directories.
@@ -192,6 +211,16 @@ sed 's/hello/world/' input.txt > output.txt
 ```
 
 - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
+
+### test
+
+You can check for files using the `test` command. For example, the following command will print a message describing if a file exists or not. Replace `file/path` with your test case.
+
+```shell
+test -e file/path && echo exist || echo not exist
+```
+
+- [test — Linux manual page](https://www.man7.org/linux/man-pages/man1/test.1.html)
 
 ### touch
 
@@ -216,3 +245,9 @@ uname -m
 ```
 
 - [uname](https://man7.org/linux/man-pages/man1/uname.1.html)
+
+### which
+
+The `which` command locates the executable file that runs when you type a command in your terminal. For example, `which aws` or `which code` will print the file path to the executable that runs those commands.
+
+- [which (command)](https://en.wikipedia.org/wiki/Which_(command))
