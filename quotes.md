@@ -139,6 +139,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "Turn crisis into opportunity. Never waste a crisis." - [Reid Hoffman](https://youtu.be/6H_AgyPO2qA?si=oH_gyOeMNEsugUc4&t=435)
 
+"Morning three, evening four." (Story about feeding monkeys acrons and how small changes in preception can impact understanding. This applies to people and in some ways marketing.) - [ChengYu: 朝三暮四 Meaning](https://blog.tutorabcchinese.com/chinese-learning-tips/chengyu-zhao-san-mu-si-meaning)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
