@@ -103,6 +103,8 @@ Namespaces are one honking great idea -- let's do more of those!"
 
 "When you find yourself 'figuring out' a section of code, consider renaming the variables. It's OK to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it." - [Code Complete 2 page 267](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
 
+"Code is read more often than it is written and a code reviewer typically has less context than a code author." - [Framework Design Guidelines page 465](https://www.amazon.com/Framework-Design-Guidelines-Conventions-Addison-Wesley/dp/0135896460/)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
