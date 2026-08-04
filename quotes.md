@@ -105,6 +105,14 @@ Namespaces are one honking great idea -- let's do more of those!"
 
 "Code is read more often than it is written and a code reviewer typically has less context than a code author." - [Framework Design Guidelines page 465](https://www.amazon.com/Framework-Design-Guidelines-Conventions-Addison-Wesley/dp/0135896460/)
 
+"A single loop usually has three cases of interest: the first case, an arbitrary selected middle case, and the last case. When you create a loop, mentally run through the first, middle and last cases to make sure that the loop doesn't have any off-by-one errors. If you have special cases that are different from the first or last case, check those too. If the loop contains complex computations, get out your calculator and manually check the calculations.
+
+Willingness to perform this kind of check is a key difference between efficient and inefficient programmers. Efficient programmers do the work of mental simulations and hand calculations because they know that such measures help them find errors. 
+
+Inefficient programmers tend to experiement randomly until they find a combination that seems to work. If a loop isn't working the way it's suppsoed to, the inefficient programmer changes the < sign to a <= sign. If that fails, the inefficient programmer changes the loop index by adding or subtracting 1. Eventually the programmer using the approach might stumble onto the right combination or simply replace the original error with a more subtle one. Even if this random process results in a correct program, it doesn't result in the programmer's knowing why the program is correct.
+
+You can expect several benefits from mental simulations and hand calculations. The mental discipline results in fewer errors during initial coding, in more rapid detection of errors during debugging, and in a better overall understanding of the program. The mental exercise means that you understand how your code works rather than guessing about it." - [Code Complete 2 from page 381](https://www.microsoftpressstore.com/store/code-complete-9780735619678)
+
 ### Miscellaneous
 
 The Peter Principle is an observation that people in a hierarchy tend to rise to 'a level of respective incompetence'. It's important to have self reflection on your progress and abilities. - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
