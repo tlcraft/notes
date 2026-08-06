@@ -151,6 +151,8 @@ The Pot Roast Principle is an example of how we should review routines and tradi
 
 "Morning three, evening four." (Story about feeding monkeys acrons and how small changes in preception can impact understanding. This applies to people and in some ways marketing.) - [ChengYu: 朝三暮四 Meaning](https://blog.tutorabcchinese.com/chinese-learning-tips/chengyu-zhao-san-mu-si-meaning)
 
+"You might go faster by standing still." - Thomas Meloche (regarding the speed at which technology, in our case AI, can evolve. An update may solve a problem you once had.)
+
 ### Goals
 
 "We must travel through the valley of shadows before we can reach the plateau of enlightenment." - [Release it! Page 30](https://pragprog.com/titles/mnee2/release-it-second-edition/)
