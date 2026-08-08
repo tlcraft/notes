@@ -103,3 +103,7 @@ It's always important to keep the project management triangle in mind. Time, qua
 Building software is a complex process and involves many people. Bugs ultimately can end up getting through all the checks we've setup from time to time. It's a team sport and placing blame on specific people is typically the wrong approach. Understanding the root cause is important, and working to adjust processes can sometimes be useful. Creating a toxic culture isn't going to help things so be careful with how you and your teams discuss bugs.
 
 - [Hey QA, Why Didn’t You Find That Bug?](https://medium.com/better-programming/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0)
+
+## Bug Evaluation
+
+Bug triage is an important process in software development. We need to understand a bug's scope and impact. Whether that's a production bug that's been found or a potential showstopper bug holding back a produciton release. Understanding the context helps determine next steps. A cosmetic bug can typically be addressed later on (though in some cases they can be easy wins to fix immediately). Larger issues that break the system or cause bad data or situations have higher priority and typically need to be fixed immediately (though mechanisms like feature flags can help hide in-development features until they are ready for release, or help give production issues a release valve while a fix is developed).
