@@ -13,6 +13,7 @@ Here are notes on building quality into software. From processes to bug ticket c
 - [Project Management Triangle](#project-management-triangle)
 - [Understanding Missed Bugs](#understanding-missed-bugs)
 - [Bug Evaluation](#bug-evaluation)
+- [How to Tackle Large QA Efforts](#how-to-tackle-large-qa-efforts)
 
 ## Testing and Release Life Cycle
 
