@@ -121,3 +121,17 @@ Here are a number of ways you could help handle large QA efforts. For example, a
 - Spot check critical areas thoroughly and smoke test other, less critical flows
 - Regression testing checklists can help test and catch other areas
 - Use end-to-end automation and unit test coverages to build confidence as well
+
+## Handling In-development Features
+
+While features are in-development we may need or want to hide and limit partially built workflows from impacting other systems or being seen in production. Here are some ways to handle that.
+
+- Iteration
+- Feature Flags
+- Temporary hard coded logic
+
+Iteration and breaking features down into manageable tasks can be very useful. The tasks can build on one another and the feature could only be enabled when the final changes are ready for release. For example, when building a new API, you could start with core workflow logic first before actually creating the API Gateway endpoint and making that available. Which limits exposure before security controls and other items are fully in place.
+
+Feature flags are a typical solution. Although you don't want these to build up in the system. Remove them when they are not needed anymore. Keep them for true feature flags to enable core workflows (or to enable features for specific clients, like at a given subscriber tier). Or even as a release valve for issues when a third-party APIs begins to fail and could be temporarily toggled off.
+
+The team could add special logic to handle certain workflows temporarily (like adding special hard coded logic to handle something while a feature is being built). Sometimes that's all right but typically you don't want that (and may be better off with a feature flag). Hard coded logic such as this is not great and long-term you need to remove it at some point.
