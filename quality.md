@@ -12,6 +12,9 @@ Here are notes on building quality into software. From processes to bug ticket c
 - [Testing Pyramid](#testing-pyramid)
 - [Project Management Triangle](#project-management-triangle)
 - [Understanding Missed Bugs](#understanding-missed-bugs)
+- [Bug Evaluation](#bug-evaluation)
+- [How to Tackle Large QA Efforts](#how-to-tackle-large-qa-efforts)
+- [Handling In-development Features](#handling-in-development-features)
 
 ## Testing and Release Life Cycle
 
@@ -103,3 +106,35 @@ It's always important to keep the project management triangle in mind. Time, qua
 Building software is a complex process and involves many people. Bugs ultimately can end up getting through all the checks we've setup from time to time. It's a team sport and placing blame on specific people is typically the wrong approach. Understanding the root cause is important, and working to adjust processes can sometimes be useful. Creating a toxic culture isn't going to help things so be careful with how you and your teams discuss bugs.
 
 - [Hey QA, Why Didn’t You Find That Bug?](https://medium.com/better-programming/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0)
+
+## Bug Evaluation
+
+Bug triage is an important process in software development. We need to understand a bug's scope and impact. Whether that's a production bug that's been found or a potential showstopper bug holding back a produciton release. Understanding the context helps determine next steps. A cosmetic bug can typically be addressed later on (though in some cases they can be easy wins to fix immediately). Larger issues that break the system or cause bad data or situations have higher priority and typically need to be fixed immediately (though mechanisms like feature flags can help hide in-development features until they are ready for release, or help give production issues a release valve while a fix is developed).
+
+Considering agile development, teams should work to iterate through changes. Breaking features down into verticle slices and minimum viable products for release helps break up work into more manageable pieces. Some items can be communicated as "fast follows" and released in coming weeks. That general idea can help communicate a particular feature isn't ready and will be finish shortly (as bugs are fixed and the feature is completed for example).
+
+## How to Tackle Large QA Efforts
+
+Here are a number of ways you could help handle large QA efforts. For example, after major version updates of a framework that would require testing most every page of an application.
+
+- Divide and conquer across several people and/or teams
+- Pull in Developers or others (project managers, business analysists, stakeholders, etc.) to help test
+- Spot check critical areas thoroughly and smoke test other, less critical flows
+- Regression testing checklists can help test and catch other areas
+- Use end-to-end automation and unit test coverages to build confidence as well
+
+Additionally, you can use a longer lived branch and a specific development environment for more in-depth testing. For example, when upgrading major web framework versions with breaking changes, create a branch, make the updates, and deploy the branch to a development environment where end-to-end tests can be run. All ahead of merging into the main branch for further testing. The team can work through issues earlier in the process before committing to main for the additional overhead that goes with major breaking changes and full system regression testing.
+
+## Handling In-development Features
+
+While features are in-development we may need or want to hide and limit partially built workflows from impacting other systems or being seen in production. Here are some ways to handle that.
+
+- Iteration
+- Feature Flags
+- Temporary hard coded logic
+
+Iteration and breaking features down into manageable tasks can be very useful. The tasks can build on one another and the feature could only be enabled when the final changes are ready for release. For example, when building a new API, you could start with core workflow logic first before actually creating the API Gateway endpoint and making that available. Which limits exposure before security controls and other items are fully in place.
+
+Feature flags are a typical solution. Although you don't want these to build up in the system. Remove them when they are not needed anymore. Keep them for true feature flags to enable core workflows (or to enable features for specific clients, like at a given subscriber tier). Or even as a release valve for issues when a third-party APIs begins to fail and could be temporarily toggled off.
+
+The team could add special logic to handle certain workflows temporarily (like adding special hard coded logic to handle something while a feature is being built). Sometimes that's all right but typically you don't want that (and may be better off with a feature flag). Hard coded logic such as this is not great and long-term you need to remove it at some point.
