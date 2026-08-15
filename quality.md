@@ -123,6 +123,8 @@ Here are a number of ways you could help handle large QA efforts. For example, a
 - Regression testing checklists can help test and catch other areas
 - Use end-to-end automation and unit test coverages to build confidence as well
 
+Additionally, you can use a longer lived branch and a specific development environment for more in-depth testing. For example, when upgrading major web framework versions with breaking changes, create a branch, make the updates, and deploy the branch to a development environment where end-to-end tests can be run. All ahead of merging into the main branch for further testing. The team can work through issues earlier in the process before committing to main for the additional overhead that goes with major breaking changes and full system regression testing.
+
 ## Handling In-development Features
 
 While features are in-development we may need or want to hide and limit partially built workflows from impacting other systems or being seen in production. Here are some ways to handle that.
