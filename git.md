@@ -17,6 +17,7 @@ This page lists notes on various `git` commands.
 - [Prune Branches](#prune-branches)
 - [Stashing Changes](#stashing-changes)
 - [Branching Strategy](#branching-strategy)
+- [Discard Changes](#discard-changes)
 
 ### Change Branches
 
@@ -159,3 +160,15 @@ If the `main` and `develop` histories conflict preventing a merge, we need to cr
 - [The origins of Trunk-Based Development](https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development)
 - [Is GitHub Flow the same as Trunk-based development?](https://www.reddit.com/r/git/comments/1oft3lq/is_github_flow_the_same_as_trunkbased_development/)
 - [Trunk Based Development: Introduction](https://trunkbaseddevelopment.com/)
+
+### Discard Changes
+
+You can use the `git checkout` command to discard unstaged changes by using the following command.
+
+```shell
+git checkout -- .
+```
+
+This discards all unvectorized or unstaged changes in your current directory and its subdirectories. It completely overwrites your modified tracked files with the last committed versions or whatever is currently in your staging area.
+
+The `--` tells git that everything after it is a path, not an option, and the `.` means "current directory and everything in it." This is a destructive operation—changes are lost and cannot be recovered.
