@@ -148,7 +148,7 @@ To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply wi
 
 ### Branching Strategy
 
-I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process).
+I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process or as some refer to it as scaled trunk based development). Features can be built up through a series of short-lived feature branches (i.e. creating a skeleton of the work first, then adding more details/services in subsequent PRs, and finally connecting all the pieces toward the end). This allows for faster feedback in PRs which will all be smaller and helps communicate the direction of the work to other developers sooner in case they have feedback. There should typically be 1 or more PRs per day.
 
 I typically use `main` and `develop` branches. Work is done against `develop` and then merged to `main` periodically for production releases. Hot fixes can be done against `main` as necessary and merged back to `develop` (or even done in `develop` and cherry picked to `main` depending on the issue). Feature branches should be squash merged into `develop` and `develop` should be merged into `main` to keep the development and production histories intact.
 
@@ -158,3 +158,4 @@ If the `main` and `develop` histories conflict preventing a merge, we need to cr
 - [Gitflow - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [The origins of Trunk-Based Development](https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development)
 - [Is GitHub Flow the same as Trunk-based development?](https://www.reddit.com/r/git/comments/1oft3lq/is_github_flow_the_same_as_trunkbased_development/)
+- [Trunk Based Development: Introduction](https://trunkbaseddevelopment.com/)
