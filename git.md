@@ -179,4 +179,6 @@ It can be helpful to include ticket numbers in commit messages for searching thr
 
 For committing code, I like small, incremental changes to be made with short, specific messages describing the change. Typically commits should make only one significant change and not make multiple changes at once.
 
+I've also learned that messages should not include a period at the end of the first line. This is because the first line is really a title line and titles don't have periods at the end. You're also trying to limit the line to 50 characters so removing the period saves a character.
+
 - [Chris beams git commit guide](https://chris.beams.io/git-commit)
