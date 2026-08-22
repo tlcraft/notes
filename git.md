@@ -172,3 +172,11 @@ git checkout -- .
 This discards all unvectorized or unstaged changes in your current directory and its subdirectories. It completely overwrites your modified tracked files with the last committed versions or whatever is currently in your staging area.
 
 The `--` tells git that everything after it is a path, not an option, and the `.` means "current directory and everything in it." This is a destructive operation—changes are lost and cannot be recovered.
+
+### Commit Messages
+
+It can be helpful to include ticket numbers in commit messages for searching through later if questions arise. The number can also be referenced in the branch name so changes clearly relate to a given ticket (which can help in PRs, including the title). That can help with multiple things from general research in PR history to cherry picking commits.
+
+For committing code, I like small, incremental changes to be made with short, specific messages describing the change. Typically commits should make only one significant change and not make multiple changes at once.
+
+- [Chris beams git commit guide](https://chris.beams.io/git-commit)
