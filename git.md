@@ -18,6 +18,7 @@ This page lists notes on various `git` commands.
 - [Stashing Changes](#stashing-changes)
 - [Branching Strategy](#branching-strategy)
 - [Discard Changes](#discard-changes)
+- [Commit Messages](#commit-messages)
 
 ### Change Branches
 
