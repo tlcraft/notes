@@ -19,6 +19,7 @@ This page lists notes on various `git` commands.
 - [Branching Strategy](#branching-strategy)
 - [Discard Changes](#discard-changes)
 - [Commit Messages](#commit-messages)
+- [git rerere](#git-rerere)
 
 ### Change Branches
 
