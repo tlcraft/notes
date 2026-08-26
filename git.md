@@ -185,3 +185,9 @@ I've also learned that messages should not include a period at the end of the fi
 From the `git commit` [man page](https://www.kernel.org/pub/software/scm/git/docs/git-commit.html#_discussion), "though not required, it’s a good idea to begin the commit message with a single short (less than 50 character) line summarizing the change, followed by a blank line and then a more thorough description. The text up to the first blank line in a commit message is treated as the commit title, and that title is used throughout Git. For example, Git-format-patch(1) turns a commit into email, and it uses the title on the Subject line and the rest of the commit in the body."
 
 - [Chris beams git commit guide](https://chris.beams.io/git-commit)
+
+### git rerere
+
+`git rerere` stands for "reuse recorded resolution". It is a hidden gem in Git that remembers how you resolved a merge conflict and automatically applies the exact same fix the next time it encounters that same conflict.
+
+- [Git Tools - Rerere](https://git-scm.com/book/en/v2/Git-Tools-Rerere)
