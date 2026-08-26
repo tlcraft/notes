@@ -17,6 +17,9 @@ This page lists notes on various `git` commands.
 - [Prune Branches](#prune-branches)
 - [Stashing Changes](#stashing-changes)
 - [Branching Strategy](#branching-strategy)
+- [Discard Changes](#discard-changes)
+- [Commit Messages](#commit-messages)
+- [git rerere](#git-rerere)
 
 ### Change Branches
 
@@ -148,7 +151,7 @@ To retrieve the stash you can use `git stash apply` or `git stash pop`. Apply wi
 
 ### Branching Strategy
 
-I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process).
+I prefer trunk-based development, using short-lived feature branches (not committing directly to `main`, which is more like the GitHub flow process or as some refer to it as scaled trunk based development). Features can be built up through a series of short-lived feature branches (i.e. creating a skeleton of the work first, then adding more details/services in subsequent PRs, and finally connecting all the pieces toward the end). This allows for faster feedback in PRs which will all be smaller and helps communicate the direction of the work to other developers sooner in case they have feedback. There should typically be 1 or more PRs per day.
 
 I typically use `main` and `develop` branches. Work is done against `develop` and then merged to `main` periodically for production releases. Hot fixes can be done against `main` as necessary and merged back to `develop` (or even done in `develop` and cherry picked to `main` depending on the issue). Feature branches should be squash merged into `develop` and `develop` should be merged into `main` to keep the development and production histories intact.
 
@@ -158,3 +161,34 @@ If the `main` and `develop` histories conflict preventing a merge, we need to cr
 - [Gitflow - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [The origins of Trunk-Based Development](https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development)
 - [Is GitHub Flow the same as Trunk-based development?](https://www.reddit.com/r/git/comments/1oft3lq/is_github_flow_the_same_as_trunkbased_development/)
+- [Trunk Based Development: Introduction](https://trunkbaseddevelopment.com/)
+
+### Discard Changes
+
+You can use the `git checkout` command to discard unstaged changes by using the following command.
+
+```shell
+git checkout -- .
+```
+
+This discards all unvectorized or unstaged changes in your current directory and its subdirectories. It completely overwrites your modified tracked files with the last committed versions or whatever is currently in your staging area.
+
+The `--` tells git that everything after it is a path, not an option, and the `.` means "current directory and everything in it." This is a destructive operation—changes are lost and cannot be recovered.
+
+### Commit Messages
+
+It can be helpful to include ticket numbers in commit messages for searching through later if questions arise. The number can also be referenced in the branch name so changes clearly relate to a given ticket (which can help in PRs, including the title). That can help with multiple things from general research in PR history to cherry picking commits.
+
+For committing code, I like small, incremental changes to be made with short, specific messages describing the change. Typically commits should make only one significant change and not make multiple changes at once.
+
+I've also learned that messages should not include a period at the end of the first line. This is because the first line is really a title line and titles don't have periods at the end. You're also trying to limit the line to 50 characters so removing the period saves a character.
+
+From the `git commit` [man page](https://www.kernel.org/pub/software/scm/git/docs/git-commit.html#_discussion), "though not required, it’s a good idea to begin the commit message with a single short (less than 50 character) line summarizing the change, followed by a blank line and then a more thorough description. The text up to the first blank line in a commit message is treated as the commit title, and that title is used throughout Git. For example, Git-format-patch(1) turns a commit into email, and it uses the title on the Subject line and the rest of the commit in the body."
+
+- [Chris beams git commit guide](https://chris.beams.io/git-commit)
+
+### git rerere
+
+`git rerere` stands for "reuse recorded resolution". It is a hidden gem in Git that remembers how you resolved a merge conflict and automatically applies the exact same fix the next time it encounters that same conflict.
+
+- [Git Tools - Rerere](https://git-scm.com/book/en/v2/Git-Tools-Rerere)
