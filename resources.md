@@ -59,6 +59,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [BairesDev Tools](https://www.bairesdev.com/tools/)
 - [YouTube Video Transcripts](https://youtubetotranscript.com/)
+- [Recuva](https://www.ccleaner.com/recuva)
 
 ## Online Editors and IDEs
 
