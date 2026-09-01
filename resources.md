@@ -7,7 +7,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [CSS and Design](#css-and-design)
 - [Architecture Design and Whiteboard Tools](#architecture-design-and-whiteboard-tools)
 - [Software and Architecture Design](#software-and-architecture-design)
-- [News and Artciles](#news-and-artcles)
+- [News and Articles](#news-and-articles)
 - [Developer Blogs and Articles](#developer-blogs-and-articles)
 - [Miscellaneous](#miscellaneous)
 - [Online Editors and IDEs](#online-editors-and-ides)
@@ -15,6 +15,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Global Developer Events](#global-developer-events)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [YAML Resources](#yaml-resources)
+- [Gherkin](#gherkin)
 
 ## CSS and Design
 
@@ -33,7 +34,7 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Refactoring Guru](https://refactoring.guru/)
 - [Source Making](https://sourcemaking.com/)
 
-## News and Artcles
+## News and Articles
 
 - [InfoQ](https://www.infoq.com/)
 - [DevIQ](https://deviq.com/)
@@ -57,6 +58,8 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 - [Miraclesalad.com](https://www.miraclesalad.com/webtools/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [BairesDev Tools](https://www.bairesdev.com/tools/)
+- [YouTube Video Transcripts](https://youtubetotranscript.com/)
+- [Recuva](https://www.ccleaner.com/recuva)
 
 ## Online Editors and IDEs
 
@@ -84,3 +87,8 @@ Resources for various things, from CSS and design to DNS tools and epoch timesta
 
 - [yaml.org](https://yaml.org/)
 - [Online YAML Parser](https://yaml-online-parser.appspot.com/)
+
+## Gherkin
+
+- [Cucumber Reference](https://cucumber.io/docs/gherkin/reference/)
+- [The Gherkin Editor](https://www.gherkineditor.online/editor)
