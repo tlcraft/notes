@@ -27,6 +27,12 @@ Here is a list of videos from around the software industry.
 
 - [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
+### Randy Pausch Lecture: Time Management
+
+"Carnegie Mellon Professor Randy Pausch gave a lecture on Time Management at the University of Virginia in November 2007. Randy Pausch is a virtual reality pioneer, human-computer interaction researcher, co-founder of Carnegie Mellon's and creator of the Alice software project."
+
+- [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)
+
 
 ### The Mother of All Demos
 
