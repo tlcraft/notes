@@ -7,6 +7,7 @@ Here is a list of videos from around the software industry.
 - [Simple Made Easy](#simple-made-easy)
 - [Hammock Driven Development](#hammock-driven-development)
 - [Randy Pausch's Last Lecture: Achieving Your Childhood Dreams](#randy-pauschs-last-lecture-achieving-your-childhood-dreams)
+- [Randy Pausch Lecture: Time Management](#randy-pausch-lecture-time-management)
 - [The Mother of All Demos](#the-mother-of-all-demos)
 
 ### Simple Made Easy
